@@ -1,0 +1,9545 @@
+{
+  "63034": {
+    "PATIENT": [
+      "Jenny Moore"
+    ],
+    "DATE": [
+      "November 13, 2063"
+    ],
+    "HOSPITAL": [
+      "RHW Therapy Hospital"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "8352969.mkv"
+    ],
+    "ID_NUMBER": [
+      "83029-69438"
+    ]
+  },
+  "83335": {
+    "DOCTOR": [
+      "Luo Chang Jun"
+    ]
+  },
+  "64725": {
+    "DOCTOR": [
+      "OVY"
+    ]
+  },
+  "61695": {
+    "PATIENT": [
+      "Danny"
+    ]
+  },
+  "70726": {
+    "DOCTOR": [
+      "Doi Berling"
+    ],
+    "DATE": [
+      "May 24, 2063"
+    ]
+  },
+  "60559": {},
+  "73918": {
+    "DATE": [
+      "January 30, 2062"
+    ]
+  },
+  "71021": {
+    "PATIENT": [
+      "Jason McGrath"
+    ],
+    "DATE": [
+      "April 3, 2013"
+    ],
+    "DOCTOR": [
+      "Sandy Neomaru"
+    ],
+    "HOSPITAL": [
+      "Hervey Bay Hospital"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "7692.OVY"
+    ]
+  },
+  "71189": {
+    "DOCTOR": [
+      "Obehan",
+      "O'Carlin"
+    ]
+  },
+  "62700": {
+    "DATE": [
+      "November 13, 2013"
+    ],
+    "TIME": [
+      "12:15 PM"
+    ],
+    "STREET": [
+      "Ariadna Close"
+    ],
+    "DOCTOR": [
+      "Crystal Margard",
+      "McGuinity"
+    ]
+  },
+  "63356": {
+    "TIME": [
+      "125pm"
+    ],
+    "DOCTOR": [
+      "Michelin"
+    ],
+    "DEPARTMENT": [
+      "acute care ward"
+    ],
+    "HOSPITAL": [
+      "Temora Hospital"
+    ]
+  },
+  "62836": {},
+  "73825": {
+    "DOCTOR": [
+      "I. Pagmeier"
+    ],
+    "HOSPITAL": [
+      "cases",
+      "hospitals"
+    ]
+  },
+  "72028": {
+    "ID_NUMBER": [
+      "5008925721",
+      "50089257"
+    ],
+    "PATIENT": [
+      "Tom"
+    ],
+    "DATE": [
+      "June 19, 2012",
+      "August 22, 2062"
+    ],
+    "TIME": [
+      "8.09pm"
+    ],
+    "DOCTOR": [
+      "Kaminsky",
+      "Falls",
+      "Humberg"
+    ]
+  },
+  "64527": {
+    "DATE": [
+      "future reference"
+    ]
+  },
+  "74145": {
+    "PATIENT": [
+      "Melissa Cerello"
+    ],
+    "ID_NUMBER": [
+      "66R62044"
+    ],
+    "DATE": [
+      "March 19, 2064",
+      "March 18, 2064"
+    ],
+    "DOCTOR": [
+      "Pio",
+      "Z.C.",
+      "S. Oda"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "6666204.MSD"
+    ]
+  },
+  "64235": {
+    "DATE": [
+      "3 December 2063",
+      "16 January 2063"
+    ],
+    "DEPARTMENT": [
+      "Envoy Pathology Department"
+    ]
+  },
+  "84365": {
+    "PERSONALNAME": [
+      "Mary"
+    ],
+    "CITY": [
+      "San Francisco"
+    ]
+  },
+  "64758": {
+    "DOCTOR": [
+      "M. Bevel"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "M222485"
+    ]
+  },
+  "60015": {
+    "DOCTOR": [
+      "T. Werns"
+    ],
+    "DATE": [
+      "June 6, 2063",
+      "June 6, 2063"
+    ]
+  },
+  "72539": {
+    "PATIENT": [
+      "Frankie Nathaniel-Shem"
+    ],
+    "ID_NUMBER": [
+      "28L064759L"
+    ],
+    "STREET": [
+      "East 1 Street"
+    ],
+    "CITY": [
+      "Eden"
+    ],
+    "STATE": [
+      "WA"
+    ],
+    "ZIP": [
+      "6910"
+    ],
+    "DATE": [
+      "September 20, 2018"
+    ],
+    "LAB_NUMBER": [
+      "28L06474"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "2840647.OXL"
+    ]
+  },
+  "64459": {
+    "DEPARTMENT": [
+      "superior jugular margin",
+      "inferior jugular margin"
+    ]
+  },
+  "61585": {},
+  "70647": {
+    "DOCTOR": [
+      "Elizabeth Barand",
+      "QS",
+      "KI",
+      "DV"
+    ],
+    "DATE": [
+      "March 25, 2064"
+    ],
+    "ID_NUMBER": [
+      "Q67"
+    ]
+  },
+  "74842": {
+    "ID_NUMBER": [
+      "3119A4514"
+    ],
+    "PATIENT": [
+      "Lauren House"
+    ],
+    "STREET": [
+      "J. Paul, Yolanda, TAS"
+    ],
+    "ZIP": [
+      "6317"
+    ],
+    "DATE": [
+      "March 3, 2018"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "319984OCL"
+    ]
+  },
+  "72809": {
+    "DOCTOR": [
+      "Washington",
+      "Roset"
+    ]
+  },
+  "62357": {
+    "DOCTOR": [
+      "Brody",
+      "Chadwick",
+      "Pearson",
+      "Lin",
+      "Craig"
+    ],
+    "DATE": [
+      "February 5, 2063"
+    ]
+  },
+  "62023": {
+    "DOCTOR": [
+      "Smith"
+    ],
+    "DATE": [
+      "Sunday"
+    ],
+    "DURATION": [
+      "two weeks"
+    ],
+    "TIME": [
+      "evening"
+    ],
+    "ID_NUMBER": [
+      "78123"
+    ]
+  },
+  "74893": {
+    "TIME": [
+      "within ASA pathology"
+    ],
+    "DATE": [
+      "January 13, 2013",
+      "2062",
+      "March 3, 2063"
+    ]
+  },
+  "70199": {
+    "DOCTOR": [
+      "Brooke",
+      "Jackson",
+      "Milliken",
+      "Rodman"
+    ],
+    "DATE": [
+      "April 24, 2063",
+      "April 27, 2063",
+      "April 30, 2063"
+    ]
+  },
+  "71579": {
+    "PATIENT": [
+      "Gary Adams"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "250610.pgi"
+    ],
+    "ID_NUMBER": [
+      "25861062"
+    ]
+  },
+  "74276": {
+    "DATE": [
+      "April 27, 2063",
+      "June 5, 2063"
+    ],
+    "DOCTOR": [
+      "V. Otile Rexgat"
+    ],
+    "HOSPITAL": [
+      "Cholera and Nebri Multiple Pulse Service Hospital"
+    ],
+    "DEPARTMENT": [
+      "parathymic epipulse tissue"
+    ]
+  },
+  "72175": {
+    "PATIENT": [
+      "Mark Clark"
+    ],
+    "STREET": [
+      "East Shelford"
+    ],
+    "CITY": [
+      "Lobato"
+    ],
+    "STATE": [
+      "Tasmania"
+    ],
+    "ZIP": [
+      "2594"
+    ],
+    "AGE": [
+      "27"
+    ]
+  },
+  "74701": {
+    "DOCTOR": [
+      "Nick Lilly-Cosper",
+      "Michelle",
+      "R. Maltes"
+    ],
+    "PATIENT": [
+      "Juan"
+    ],
+    "AGE": [
+      "57"
+    ],
+    "FAMILYNAME": [
+      "Lilly-Cosper",
+      "Maltes"
+    ],
+    "ID_NUMBER": [
+      "62S02144"
+    ]
+  },
+  "64415": {
+    "TIME": [
+      "December 11, 2012",
+      "3.48 p.m."
+    ],
+    "DOCTOR": [
+      "Morton Jamar Broussard"
+    ],
+    "DATE": [
+      "February 13, 2062",
+      "February 14, 2062"
+    ],
+    "ID_NUMBER": [
+      "762",
+      "762"
+    ]
+  },
+  "64592": {
+    "DOCTOR": [
+      "Knard"
+    ],
+    "DATE": [
+      "February 7, 2063"
+    ],
+    "PATIENT": [
+      "Sarah"
+    ],
+    "AGE": [
+      "62"
+    ]
+  },
+  "72091": {
+    "DATE": [
+      "1963",
+      "1963",
+      "1963"
+    ],
+    "DOCTOR": [
+      "Roy N",
+      "D. V.",
+      "M. Khartoum",
+      "M. Chouli",
+      "M. Liovano",
+      "Nouriel Tlalangyamshua",
+      "M. Lorison"
+    ]
+  },
+  "70849": {
+    "DATE": [
+      "June 28, 2062",
+      "June 12, 2062",
+      "June 28, 2062"
+    ],
+    "DOCTOR": [
+      "Q.M.",
+      "O. Fizier"
+    ],
+    "HOSPITAL": [
+      "Rurida Multipurpose Service Hospital"
+    ]
+  },
+  "70004": {
+    "PATIENT": [
+      "Dennis"
+    ],
+    "DOCTOR": [
+      "Dennis"
+    ]
+  },
+  "64916": {
+    "PATIENT": [
+      "Yesenia Kendo-Gadzic"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "7010570.tjr"
+    ],
+    "ID_NUMBER": [
+      "70105707"
+    ]
+  },
+  "72846": {
+    "DOCTOR": [
+      "Julia"
+    ],
+    "DATE": [
+      "March 2, 2064"
+    ]
+  },
+  "61215": {
+    "DOCTOR": [
+      "T. Perks"
+    ]
+  },
+  "63313": {},
+  "74335": {
+    "PATIENT": [
+      "Douglas"
+    ]
+  },
+  "63802": {
+    "MEDICAL_RECORD_NUMBER": [
+      "563618462I",
+      "5626184.RHI"
+    ],
+    "PATIENT": [
+      "Collins-Murray"
+    ]
+  },
+  "62667": {
+    "DEPARTMENT": [
+      "for patients"
+    ]
+  },
+  "72643": {
+    "DATE": [
+      "Today",
+      "Today",
+      "Today"
+    ],
+    "PATIENT": [
+      "Samuel Jackson",
+      "Samuel"
+    ],
+    "ID_NUMBER": [
+      "18I62877"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "1836287.TZY"
+    ]
+  },
+  "70490": {
+    "DOCTOR": [
+      "Anderson",
+      "Zubek",
+      "Collins",
+      "Carter"
+    ],
+    "DATE": [
+      "review date"
+    ]
+  },
+  "63844": {
+    "DOCTOR": [
+      "Brian",
+      "Delphi",
+      "Rook",
+      "Marvin",
+      "Bailey",
+      "Tinson",
+      "Stockton"
+    ],
+    "DATE": [
+      "June 22, 2062",
+      "September 6, 2062"
+    ]
+  },
+  "62612": {
+    "PATIENT": [
+      "Mandy Dale"
+    ],
+    "ID_NUMBER": [
+      "EPSO number 46M672490X",
+      "medical record number 4646724.XCX"
+    ],
+    "PERSONALNAME": [
+      "Mandy"
+    ],
+    "DATE": [
+      "today"
+    ]
+  },
+  "83182": {},
+  "72794": {
+    "ID_NUMBER": [
+      "087W349686R",
+      "87W34968"
+    ],
+    "PATIENT": [
+      "Felicia Rose"
+    ]
+  },
+  "84296": {
+    "DEPARTMENT": [
+      "慢走"
+    ]
+  },
+  "72678": {
+    "PATIENT": [
+      "Austin"
+    ],
+    "DEPARTMENT": [
+      "Intensive Care Department"
+    ],
+    "HOSPITAL": [
+      "Elbury-Wedonga Hills Elbury Campus"
+    ],
+    "DATE": [
+      "August 13, 2013"
+    ],
+    "TIME": [
+      "6.01pm"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "5233626.VUP"
+    ]
+  },
+  "60930": {
+    "DOCTOR": [
+      "DO"
+    ],
+    "DATE": [
+      "May 16, 2063"
+    ],
+    "ID_NUMBER": [
+      "50",
+      "45",
+      "15"
+    ]
+  },
+  "72854": {
+    "DOCTOR": [
+      "KF",
+      "BH",
+      "P. Finnell"
+    ],
+    "DATE": [
+      "December 26, 2063"
+    ]
+  },
+  "62579": {
+    "DOCTOR": [
+      "Smith"
+    ],
+    "PATIENT": [
+      "John Doe"
+    ]
+  },
+  "63863": {
+    "DATE": [
+      "June 28, 2062"
+    ],
+    "DOCTOR": [
+      "Queen"
+    ]
+  },
+  "60769": {
+    "DEPARTMENT": [
+      "serous borderline tumor on the serosa of the uterus and board ligament"
+    ],
+    "DIAGNOSIS": [
+      "low-grade serous carcinoma in the caudicic"
+    ],
+    "ORGAN": [
+      "omentum"
+    ],
+    "DOCTOR": [
+      "OEE"
+    ]
+  },
+  "71442": {
+    "DATE": [
+      "January 28, 2014"
+    ],
+    "TIME": [
+      "8:36 AM"
+    ]
+  },
+  "64365": {
+    "ID_NUMBER": [
+      "80E562949V"
+    ],
+    "PATIENT": [
+      "Bradley Green"
+    ],
+    "DATE": [
+      "today"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "8015629.mzv"
+    ],
+    "NUMBER": [
+      "80E56294"
+    ],
+    "STREET": [
+      "W. Valet Street"
+    ],
+    "CITY": [
+      "Gladstone"
+    ],
+    "STATE": [
+      "NT"
+    ]
+  },
+  "62595": {
+    "DATE": [
+      "January 22, 2063"
+    ],
+    "DOCTOR": [
+      "C. Elberg"
+    ],
+    "HOSPITAL": [
+      "RR, Donnelly, and Finley Hospital"
+    ],
+    "DEPARTMENT": [
+      "Community Health Care"
+    ]
+  },
+  "84757": {},
+  "64313": {
+    "PATIENT": [
+      "Catherine Brown"
+    ],
+    "ID_NUMBER": [
+      "62Y3015865"
+    ],
+    "STREET": [
+      "Marcus Garvey Street"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "6293015.XRO"
+    ]
+  },
+  "61397": {
+    "TIME": [
+      "09:00 AM"
+    ],
+    "DURATION": [
+      "two weeks",
+      "three hours"
+    ]
+  },
+  "62900": {
+    "DATE": [
+      "February 6, 2062"
+    ],
+    "DURATION": [
+      "75mm",
+      "55mm",
+      "30mm"
+    ]
+  },
+  "73484": {
+    "PATIENT": [
+      "Draymond"
+    ],
+    "DATE": [
+      "July 3, 2011",
+      "August 8, 2062",
+      "August 9, 2062"
+    ],
+    "STREET": [
+      "Unn Gates"
+    ],
+    "CITY": [
+      "Weston"
+    ],
+    "STATE": [
+      "Western Australia"
+    ],
+    "ZIP": [
+      "1490"
+    ]
+  },
+  "72959": {
+    "DOCTOR": [
+      "Freudig",
+      "E.G.",
+      "H. Brasen"
+    ],
+    "PATIENT": [
+      "Blake"
+    ],
+    "DATE": [
+      "March 2, 2064",
+      "March 26, 2064"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "222485.OEE"
+    ]
+  },
+  "70006": {
+    "ID_NUMBER": [
+      "040341539G"
+    ],
+    "PATIENT": [
+      "Peter Chi"
+    ],
+    "LOCATION-OTHER": [
+      "Hestercom in Bergara"
+    ],
+    "STATE": [
+      "WA"
+    ],
+    "ZIP": [
+      "2652"
+    ],
+    "AGE": [
+      "17"
+    ],
+    "DATE": [
+      "today"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "0453415.KZG"
+    ]
+  },
+  "61316": {
+    "DATE": [
+      "May 8, 2063",
+      "August 13, 2063"
+    ]
+  },
+  "73590": {
+    "DATE": [
+      "January 17, 2062",
+      "March 20, 2063"
+    ],
+    "DOCTOR": [
+      "Fuzz",
+      "Vang",
+      "Healer"
+    ]
+  },
+  "60330": {
+    "PATIENT": [
+      "Ian Clark"
+    ],
+    "ID_NUMBER": [
+      "719660-5898"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "719660.OVY"
+    ]
+  },
+  "61742": {
+    "MEDICAL_RECORD_NUMBER": [
+      "66B52796",
+      "6605279.QNL"
+    ],
+    "STREET": [
+      "Balavar de Molimuc"
+    ],
+    "ZIP": [
+      "2516"
+    ],
+    "DATE": [
+      "July 17, 2006"
+    ],
+    "DOCTOR": [
+      "Len Admira"
+    ]
+  },
+  "74902": {
+    "MEDICAL_RECORD_NUMBER": [
+      "33Z927632F"
+    ],
+    "ID_NUMBER": [
+      "33Z92763"
+    ],
+    "HOSPITAL": [
+      "Gingda Hospital"
+    ],
+    "DATE": [
+      "January 29, 2014"
+    ],
+    "TIME": [
+      "9:51 AM"
+    ]
+  },
+  "60018": {
+    "MEDICAL_TERM": [
+      "conditions"
+    ]
+  },
+  "62625": {
+    "PATIENT": [
+      "Steve"
+    ],
+    "DATE": [
+      "February 21, 2063"
+    ]
+  },
+  "61930": {
+    "PATIENT": [
+      "Emery Gartner"
+    ],
+    "ID_NUMBER": [
+      "75J64061"
+    ],
+    "DOCTOR": [
+      "W.E"
+    ]
+  },
+  "71901": {
+    "TIME": [
+      "09:00"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "04J01977",
+      "04J01977",
+      "43019.SSM"
+    ],
+    "STREET": [
+      "Gelada Street"
+    ],
+    "LOCATION": [
+      "Long Chin Place"
+    ],
+    "DATE": [
+      "November 3, 2019"
+    ],
+    "PATIENT": [
+      "Lily"
+    ]
+  },
+  "72972": {
+    "DOCTOR": [
+      "Whitmore",
+      "Jordan",
+      "Clarkson",
+      "Brown"
+    ],
+    "PATIENT": [
+      "Henry"
+    ],
+    "DATE": [
+      "April 8, 2064"
+    ]
+  },
+  "63735": {
+    "PATIENT": [
+      "John"
+    ],
+    "HOSPITAL": [
+      "Kingston Soldiers Memorial Hospital"
+    ],
+    "DEPARTMENT": [
+      "case"
+    ],
+    "DOCTOR": [
+      "staff"
+    ]
+  },
+  "84461": {},
+  "74591": {
+    "ID_NUMBER": [
+      "28L06475"
+    ],
+    "DOCTOR": [
+      "Zhu Fat"
+    ],
+    "DATE": [
+      "Oct 2, 2063",
+      "Oct 29, 2063",
+      "Oct 29, 2063"
+    ]
+  },
+  "74308": {
+    "ID_NUMBER": [
+      "82U753930Q"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "82U75393"
+    ],
+    "PATIENT": [
+      "John Doe"
+    ],
+    "DEPARTMENT": [
+      "Wuryodha Multipurpose Service",
+      "Hereditary Department"
+    ],
+    "DOCTOR": [
+      "Several doctors"
+    ],
+    "DATE": [
+      "August 22, 2012"
+    ],
+    "TIME": [
+      "4.35 PM"
+    ]
+  },
+  "73071": {
+    "DATE": [
+      "December 25, 2062"
+    ],
+    "DOCTOR": [
+      "Chandler"
+    ]
+  },
+  "60732": {
+    "DATE": [
+      "February 8, 2062"
+    ],
+    "DOCTOR": [
+      "DCIS"
+    ],
+    "PATIENT": [
+      "right breast"
+    ]
+  },
+  "83104": {
+    "PERSONALNAME": [
+      "Alan",
+      "Alan"
+    ],
+    "FAMILYNAME": [
+      "Anson"
+    ]
+  },
+  "71893": {
+    "PATIENT": [
+      "Tracy Levine"
+    ],
+    "ID_NUMBER": [
+      "40B4707569"
+    ],
+    "STREET": [
+      "Pinecroft"
+    ],
+    "CITY": [
+      "Wagga"
+    ],
+    "STATE": [
+      "Western Australia"
+    ],
+    "ZIP": [
+      "1240"
+    ],
+    "DOCTOR": [
+      "Levine"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "400470.UR"
+    ]
+  },
+  "71230": {
+    "DATE": [
+      "The final diagnosis"
+    ]
+  },
+  "63726": {
+    "DOCTOR": [
+      "Dillon",
+      "Calvino",
+      "Rothstein"
+    ],
+    "PATIENT": [
+      "Linda"
+    ]
+  },
+  "60362": {
+    "PATIENT": [
+      "Amanda Ben"
+    ],
+    "ID_NUMBER": [
+      "78Q442603F",
+      "78Q44260"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "7864426.bif"
+    ]
+  },
+  "64675": {
+    "DOCTOR": [
+      "Milovan Isamel Iglesias",
+      "Yuo",
+      "X. Pinnacle"
+    ],
+    "DATE": [
+      "July 10, 2063"
+    ],
+    "ID_NUMBER": [
+      "X"
+    ]
+  },
+  "70105": {
+    "ORGANIZATION": [
+      "Keratin Center"
+    ],
+    "DEPARTMENT": [
+      "MGMT Testing"
+    ],
+    "DATE": [
+      "a supplementary report will be issued"
+    ]
+  },
+  "64999": {
+    "DISTANCE": [
+      "85mm",
+      "140mm"
+    ],
+    "DOCTOR": [
+      "Z. Biawagat"
+    ]
+  },
+  "60791": {
+    "PATIENT": [
+      "Jonathan"
+    ],
+    "DOCTOR": [
+      "Jonathan"
+    ]
+  },
+  "60997": {
+    "DATE": [
+      "3 December 2063"
+    ],
+    "DOCTOR": [
+      "Washington",
+      "Zed Lopez"
+    ]
+  },
+  "61267": {
+    "DOCTOR": [
+      "Brendan",
+      "Moose",
+      "Nora",
+      "Rosa",
+      "Nick",
+      "Paul"
+    ],
+    "DATE": [
+      "26th December, 2063",
+      "24th December, 2063"
+    ]
+  },
+  "70994": {
+    "DATE": [
+      "August 28, 2062",
+      "October 30, 2063"
+    ],
+    "DOCTOR": [
+      "Capwood",
+      "Terry"
+    ],
+    "PATIENT": [
+      "patient"
+    ]
+  },
+  "61332": {
+    "STREET": [
+      "Danwood"
+    ],
+    "CITY": [
+      "Coorgardai"
+    ],
+    "STATE": [
+      "Queensland"
+    ],
+    "ZIP": [
+      "5417"
+    ],
+    "DATE": [
+      "September 5, 2013"
+    ],
+    "TIME": [
+      "from 1"
+    ],
+    "DEPARTMENT": [
+      "Parks 4 East"
+    ],
+    "DOCTOR": [
+      "Heath Malone-Boddyfield",
+      "Yu Tee",
+      "M. R.",
+      "Yu Perich",
+      "Blaine",
+      "Yu Laiso"
+    ]
+  },
+  "74264": {
+    "DOCTOR": [
+      "Z. Zadbury"
+    ],
+    "DATE": [
+      "September 3, 2063"
+    ]
+  },
+  "74441": {
+    "ID_NUMBER": [
+      "45S360744A",
+      "45S36074.LLA"
+    ]
+  },
+  "73579": {
+    "DATE": [
+      "April 10, 2013",
+      "June 12, 2063",
+      "June 13, 2063"
+    ],
+    "TIME": [
+      "3.55 PM"
+    ]
+  },
+  "60380": {
+    "CITY": [
+      "Yarragan"
+    ],
+    "STATE": [
+      "Queensland"
+    ],
+    "ZIP": [
+      "3522"
+    ],
+    "DATE": [
+      "April 27, 1990",
+      "April 23, 2012"
+    ],
+    "TIME": [
+      "3.16 p.m."
+    ]
+  },
+  "74461": {
+    "PATIENT": [
+      "John"
+    ]
+  },
+  "63905": {
+    "DOCTOR": [
+      "Smith"
+    ],
+    "PATIENT": [
+      "John Doe"
+    ],
+    "DEPARTMENT": [
+      "Radiology Department",
+      "Radiology Department",
+      "Radiology Department"
+    ],
+    "DURATION": [
+      "two weeks",
+      "three"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "OVY"
+    ]
+  },
+  "73503": {
+    "PATIENT": [
+      "Tom Bryant"
+    ],
+    "ID_NUMBER": [
+      "5058925.sgm"
+    ],
+    "STREET": [
+      "Lowery Street"
+    ],
+    "CITY": [
+      "Manjura"
+    ],
+    "STATE": [
+      "South Australia"
+    ],
+    "ZIP": [
+      "2381"
+    ],
+    "DATE": [
+      "September 21, 2001"
+    ],
+    "HOSPITAL": [
+      "Sunsbury Day Hospital"
+    ],
+    "DEPARTMENT": [
+      "St. George Private Department"
+    ],
+    "AGE": [
+      "9"
+    ]
+  },
+  "74430": {
+    "ID_NUMBER": [
+      "86J37156",
+      "A6J37156"
+    ],
+    "DATE": [
+      "May 25, 1991",
+      "March 16, 2013"
+    ],
+    "TIME": [
+      "6.21 p.m."
+    ],
+    "DEPARTMENT": [
+      "Invoi Specialist Department"
+    ],
+    "HOSPITAL": [
+      "Orioda Multipurpose Service"
+    ]
+  },
+  "73035": {
+    "ID_NUMBER": [
+      "4835"
+    ]
+  },
+  "62993": {
+    "DOCTOR": [
+      "Valentine",
+      "George",
+      "Lyndon"
+    ],
+    "DATE": [
+      "February 20, 2063"
+    ]
+  },
+  "60786": {
+    "DOCTOR": [
+      "Tracy Giuda-Rapolo",
+      "J. McCaskin",
+      "Malcolm Kurzak",
+      "Yu Yu",
+      "Yu Z"
+    ],
+    "DATE": [
+      "January 7, 2063",
+      "January 7, 2063"
+    ]
+  },
+  "63430": {
+    "DATE": [
+      "February 21, 2063"
+    ],
+    "TIME": [
+      "09:00 AM",
+      "evening"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "8837553",
+      "8837553"
+    ]
+  },
+  "60697": {
+    "ID_NUMBER": [
+      "13J15714",
+      "13J15714"
+    ],
+    "PATIENT": [
+      "Luke"
+    ],
+    "AGE": [
+      "59 years old"
+    ]
+  },
+  "63634": {
+    "DOCTOR": [
+      "Smith"
+    ],
+    "DATE": [
+      "yesterday"
+    ]
+  },
+  "62479": {
+    "DATE": [
+      "June 6, 2018"
+    ]
+  },
+  "61977": {
+    "PATIENT": [
+      "Colby Garnett"
+    ],
+    "ID_NUMBER": [
+      "10U322545X"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "107322.PMN"
+    ]
+  },
+  "60830": {
+    "PATIENT": [
+      "Brendan"
+    ],
+    "DEPARTMENT": [
+      "cardiothoracic ICU"
+    ],
+    "DOCTOR": [
+      "Wader",
+      "Polk",
+      "Mars",
+      "Booker"
+    ]
+  },
+  "83477": {
+    "TIME": [
+      "5:10 AM"
+    ],
+    "DOCTOR": [
+      "Zong Zongguan"
+    ],
+    "DURATION": [
+      "now"
+    ]
+  },
+  "73489": {
+    "PATIENT": [
+      "Kenneth Darren Jowers"
+    ],
+    "ID_NUMBER": [
+      "67Q435696G"
+    ],
+    "CITY": [
+      "Leighton"
+    ],
+    "STATE": [
+      "Thorold, WA"
+    ],
+    "ZIP": [
+      "3902"
+    ],
+    "DATE": [
+      "16 February 2007"
+    ],
+    "DURATION": [
+      "a radical prostatectomy"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "6764356.YPG"
+    ]
+  },
+  "73612": {
+    "ID_NUMBER": [
+      "57I-7758410"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "573-7758.LEO"
+    ]
+  },
+  "64267": {
+    "STREET": [
+      "Beresdale"
+    ],
+    "STATE": [
+      "Northern Territory"
+    ],
+    "ZIP": [
+      "6035"
+    ],
+    "DATE": [
+      "December 11, 2012"
+    ],
+    "TIME": [
+      "12:59"
+    ],
+    "DOCTOR": [
+      "Ronald",
+      "Gunia Luffman"
+    ]
+  },
+  "74139": {
+    "ID_NUMBER": [
+      "89U004662R"
+    ],
+    "PATIENT": [
+      "Sharon Lopez"
+    ],
+    "STREET": [
+      "Storing Ranch"
+    ],
+    "CITY": [
+      "Hespin"
+    ],
+    "STATE": [
+      "Western Australia"
+    ],
+    "ZIP": [
+      "4345"
+    ],
+    "AGE": [
+      "26"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "8970046RGR"
+    ]
+  },
+  "62143": {
+    "DOCTOR": [
+      "Geo"
+    ]
+  },
+  "73091": {
+    "PATIENT": [
+      "Billy John"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "094-7557.wjf"
+    ],
+    "ID_NUMBER": [
+      "09M-75578"
+    ]
+  },
+  "70853": {
+    "PATIENT": [
+      "Jimmy Dudley"
+    ],
+    "DATE": [
+      "June 15, 2007"
+    ],
+    "STREET": [
+      "Gulfway Street"
+    ],
+    "CITY": [
+      "Rewi"
+    ],
+    "STATE": [
+      "QLD"
+    ],
+    "ZIP": [
+      "5171"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "9760278.EDM"
+    ]
+  },
+  "64973": {
+    "PATIENT": [
+      "Jamie"
+    ],
+    "DOCTOR": [
+      "Vee"
+    ],
+    "PERSONALNAME": [
+      "Jamie"
+    ],
+    "FAMILYNAME": [
+      "Brunson"
+    ],
+    "ID_NUMBER": [
+      "26L28880"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "264288.XBB"
+    ]
+  },
+  "64439": {
+    "PATIENT": [
+      "Zachary Ardis",
+      "Isiano"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "8188.283.gqq"
+    ],
+    "ID_NUMBER": [
+      "81X82832"
+    ],
+    "DATE": [
+      "February 19, 1963"
+    ]
+  },
+  "64025": {
+    "PATIENT": [
+      "Mark Bell"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "0813755.KZB"
+    ]
+  },
+  "73009": {},
+  "70963": {
+    "DOCTOR": [
+      "Randall Watkin-Warren",
+      "Bassey",
+      "T",
+      "Z Rabo",
+      "Z Woblow",
+      "Z Moralco"
+    ],
+    "DATE": [
+      "April 14, 2063",
+      "April 15, 2063"
+    ],
+    "ID_NUMBER": [
+      "222485"
+    ]
+  },
+  "63108": {
+    "PATIENT": [
+      "Jamie Casio"
+    ],
+    "ID_NUMBER": [
+      "01K47794",
+      "01K477949H"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "0144779.KZH"
+    ]
+  },
+  "72452": {
+    "TIME": [
+      "4.30 PM"
+    ],
+    "DATE": [
+      "September 26, 2012"
+    ]
+  },
+  "73701": {
+    "DATE": [
+      "June 6, 2033"
+    ]
+  },
+  "72347": {
+    "MEDICAL_RECORD_NUMBER": [
+      "52V05846"
+    ],
+    "DATE": [
+      "March 23, 2064"
+    ],
+    "HOSPITAL": [
+      "Tocumbo Hospital"
+    ],
+    "DEPARTMENT": [
+      "Envoy Department"
+    ],
+    "DOCTOR": [
+      "Laura O. Alleman",
+      "O. Fritz",
+      "Vino",
+      "Keith"
+    ]
+  },
+  "62071": {
+    "DATE": [
+      "yesterday"
+    ]
+  },
+  "63330": {
+    "PATIENT": [
+      "Jack Eddy"
+    ],
+    "ID_NUMBER": [
+      "35W7822690"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "35A7822.ryo"
+    ],
+    "FAMILYNAME": [
+      "Orankoski"
+    ]
+  },
+  "74243": {
+    "TIME": [
+      "4.25 PM"
+    ],
+    "DOCTOR": [
+      "D. Roya",
+      "D. Reitmayer",
+      "D. Rugo",
+      "D. Chaston"
+    ],
+    "DATE": [
+      "June 4, 2013"
+    ]
+  },
+  "60079": {
+    "PATIENT": [
+      "Sarah"
+    ],
+    "ID_NUMBER": [
+      "74M-52173"
+    ],
+    "DATE": [
+      "February 12, 2063"
+    ]
+  },
+  "72421": {
+    "DOCTOR": [
+      "Parker",
+      "Houston",
+      "Bell"
+    ],
+    "DATE": [
+      "December 16, 2063"
+    ]
+  },
+  "83913": {
+    "CITY": [
+      "San Francisco"
+    ]
+  },
+  "63569": {
+    "PATIENT": [
+      "Colby"
+    ],
+    "DATE": [
+      "July 19, 2062"
+    ],
+    "DOCTOR": [
+      "Elish",
+      "White",
+      "Crawford"
+    ]
+  },
+  "64971": {
+    "MEDICAL_RECORD_NUMBER": [
+      "50I25448",
+      "5032544.VEM"
+    ],
+    "PATIENT": [
+      "Gary Sartre"
+    ]
+  },
+  "60267": {
+    "DATE": [
+      "June 6, 2033"
+    ]
+  },
+  "63983": {
+    "DATE": [
+      "June 26, 2062"
+    ],
+    "PATIENT": [
+      "Crane"
+    ],
+    "DEPARTMENT": [
+      "Peter Meck Department"
+    ],
+    "HOSPITAL": [
+      "Mercy Health Service"
+    ],
+    "DOCTOR": [
+      "Stevenson",
+      "Towns",
+      "Duren"
+    ]
+  },
+  "72766": {
+    "ID_NUMBER": [
+      "34F39162",
+      "34F39162",
+      "February 6, 2063"
+    ],
+    "DOCTOR": [
+      "Sheldon Lawrence Moser",
+      "K. Stendrew",
+      "K. Pifo"
+    ],
+    "DATE": [
+      "February 5, 2063",
+      "February 6, 2013",
+      "February 6, 2063"
+    ],
+    "TIME": [
+      "9:40 AM"
+    ]
+  },
+  "61506": {
+    "PATIENT": [
+      "Donovan Bryant"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "84J494729W"
+    ],
+    "ID_NUMBER": [
+      "8434947.fyw"
+    ]
+  },
+  "63601": {
+    "DOCTOR": [
+      "QG",
+      "WG",
+      "X",
+      "Totec"
+    ],
+    "DATE": [
+      "February 16, 2062"
+    ],
+    "PERSONALNAME": [
+      "NINOMOD"
+    ]
+  },
+  "74968": {
+    "DATE": [
+      "67024983",
+      "26 November 2012",
+      "8.14 AM"
+    ],
+    "DOCTOR": [
+      "Madeline Jindorin-Kasmi",
+      "Q. Dorr",
+      "Q. Jumilon",
+      "Q. Wojcicki",
+      "Q. Siptak",
+      "YT"
+    ],
+    "ID_NUMBER": [
+      "10"
+    ]
+  },
+  "72960": {
+    "PATIENT": [
+      "Jeremy Jackson"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "8508795.pcp",
+      "85A87956"
+    ],
+    "DATE": [
+      "March 3, 2064"
+    ]
+  },
+  "84282": {
+    "DOCTOR": [
+      "Song Chang Jian Wang"
+    ],
+    "PATIENT": [
+      "Song Long Jian",
+      "Song Long Jian"
+    ],
+    "DATE": [
+      "tomorrow",
+      "next day"
+    ],
+    "PERSONALNAME": [
+      "Summer"
+    ]
+  },
+  "62511": {
+    "PATIENT": [
+      "Howard Caesar"
+    ],
+    "DATE": [
+      "August 24, 1993"
+    ],
+    "ID_NUMBER": [
+      "09F16547J",
+      "09F01654"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "091016.NMT"
+    ]
+  },
+  "62917": {
+    "DATE": [
+      "July 16, 2063"
+    ],
+    "TIME": [
+      "evening"
+    ],
+    "LOCATION-OTHER": [
+      "Omeo district health"
+    ],
+    "DEPARTMENT": [
+      "East surgical department"
+    ],
+    "DOCTOR": [
+      "Amanda",
+      "UG"
+    ],
+    "ID_NUMBER": [
+      "0M7172"
+    ]
+  },
+  "63175": {
+    "PATIENT": [
+      "Patrick"
+    ],
+    "DOCTOR": [
+      "Smith"
+    ],
+    "DATE": [
+      "24 August 1984"
+    ],
+    "STREET": [
+      "Old Picard Street"
+    ]
+  },
+  "84384": {
+    "DATE": [
+      "今天"
+    ],
+    "TIME": [
+      "今天"
+    ]
+  },
+  "70631": {
+    "PATIENT": [
+      "Penny"
+    ]
+  },
+  "60992": {
+    "DATE": [
+      "June 26, 2062",
+      "July 3, 2062",
+      "July 5, 2062"
+    ],
+    "HOSPITAL": [
+      "Canberra Hesp Hospital"
+    ],
+    "DOCTOR": [
+      "Brani"
+    ]
+  },
+  "63641": {
+    "DATE": [
+      "February 14, 2063"
+    ],
+    "DOCTOR": [
+      "STP"
+    ]
+  },
+  "63500": {},
+  "72544": {
+    "DOCTOR": [
+      "Gennaro Trevor",
+      "Yaron Palatik"
+    ],
+    "HOSPITAL": [
+      "Cobram District Health",
+      "Grenfell Multipurpose Service"
+    ],
+    "PROFESSION": [
+      "MGMT methylation analysis",
+      "confirmed MGMT methylation"
+    ],
+    "ID_NUMBER": [
+      "222485"
+    ]
+  },
+  "63554": {
+    "MEDICAL_RECORD_NUMBER": [
+      "23BA0726"
+    ],
+    "DOCTOR": [
+      "H. Seddon",
+      "H. Modzgowski"
+    ],
+    "TIME": [
+      "April 18, 2012",
+      "3.35 p.m."
+    ]
+  },
+  "60102": {
+    "MEDICAL_RECORD_NUMBER": [
+      "35W78226"
+    ],
+    "STREET": [
+      "Queensbrook, Armadale"
+    ],
+    "ZIP": [
+      "3373"
+    ],
+    "DATE": [
+      "January 10, 2006"
+    ],
+    "TIME": [
+      "November 4, 2013 16:12 p.m."
+    ],
+    "DEPARTMENT": [
+      "day surgery unit"
+    ],
+    "HOSPITAL": [
+      "Heathcote Health"
+    ]
+  },
+  "74361": {
+    "ID_NUMBER": [
+      "87Y535547P",
+      "87Y53554"
+    ],
+    "DATE": [
+      "September 3, 2012"
+    ],
+    "TIME": [
+      "1.36 p.m."
+    ]
+  },
+  "71116": {
+    "PATIENT": [
+      "Britt Powell"
+    ],
+    "DOCTOR": [
+      "Britt"
+    ],
+    "FAMILYNAME": [
+      "Powell"
+    ],
+    "STREET": [
+      "Garrowing"
+    ],
+    "TOWN": [
+      "Tononda"
+    ],
+    "STATE": [
+      "Queensland"
+    ],
+    "ZIP": [
+      "6327"
+    ],
+    "AGE": [
+      "1983"
+    ],
+    "DATE": [
+      "June 25, 1983"
+    ],
+    "HOSPITAL": [
+      "Williamstown Hospital"
+    ]
+  },
+  "70309": {
+    "PATIENT": [
+      "Shiloh Sherwin-Erick"
+    ],
+    "DOCTOR": [
+      "Agron",
+      "V. Stout",
+      "V. Wilden"
+    ],
+    "DATE": [
+      "May 1, 2063",
+      "May 21, 2063"
+    ]
+  },
+  "73198": {
+    "PATIENT": [
+      "Shuana Polly"
+    ],
+    "DATE": [
+      "October 5, 1980"
+    ],
+    "STREET": [
+      "WSFM Indian Gatha"
+    ],
+    "ZIP": [
+      "3165"
+    ],
+    "DEPARTMENT": [
+      "Culinary Care Unit"
+    ],
+    "HOSPITAL": [
+      "Mount Baker District, Soldier Memorial Hospital"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "22Q9965284"
+    ]
+  },
+  "74351": {
+    "PATIENT": [
+      "Max Boock"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "2311404.zuk"
+    ],
+    "STREET": [
+      "Mears Glen"
+    ],
+    "CITY": [
+      "Stanley"
+    ],
+    "STATE": [
+      "Northern Territory"
+    ],
+    "ZIP": [
+      "3104"
+    ],
+    "DATE": [
+      "June 26, 2004"
+    ],
+    "ID_NUMBER": [
+      "episode number"
+    ]
+  },
+  "73454": {
+    "PATIENT": [
+      "Renato Brown"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "8795355.ksp"
+    ],
+    "DATE": [
+      "February 18, 1986"
+    ],
+    "STREET": [
+      "Dan Street"
+    ],
+    "CITY": [
+      "Richmond"
+    ],
+    "STATE": [
+      "Tasmania"
+    ],
+    "ZIP": [
+      "0800"
+    ]
+  },
+  "72083": {
+    "PATIENT": [
+      "Danny Smith"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "6826265VSL"
+    ],
+    "ID_NUMBER": [
+      "6AH62658",
+      "6AH62658"
+    ]
+  },
+  "70772": {
+    "PATIENT": [
+      "Chris"
+    ]
+  },
+  "64808": {},
+  "64647": {
+    "DOCTOR": [
+      "Ramiro"
+    ]
+  },
+  "71572": {
+    "ID_NUMBER": [
+      "53D85497",
+      "53D85497"
+    ]
+  },
+  "74861": {
+    "PATIENT": [
+      "Alex Blaine"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "546520A5.WDR"
+    ],
+    "STREET": [
+      "Duckett Street"
+    ],
+    "CITY": [
+      "Jindabyne, Tanzania"
+    ],
+    "ZIP": [
+      "4119"
+    ],
+    "DATE": [
+      "November 20, 1995"
+    ],
+    "ID_NUMBER": [
+      "54R528581R"
+    ]
+  },
+  "71548": {
+    "PATIENT": [
+      "Misty Wilson"
+    ],
+    "ID_NUMBER": [
+      "46E871751C"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "3608717.nuc"
+    ],
+    "DOCTOR": [
+      "McNeil Street",
+      "Stanthorpe"
+    ],
+    "CITY": [
+      "Stanthorpe"
+    ],
+    "STATE": [
+      "New South Wales"
+    ],
+    "ZIP": [
+      "5410"
+    ],
+    "DEPARTMENT": [
+      "Dickinson 3 South Street"
+    ]
+  },
+  "60533": {
+    "PATIENT": [
+      "Roger Duncan"
+    ],
+    "ID_NUMBER": [
+      "26&4737610"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "2644737.qdo"
+    ],
+    "NUMBER": [
+      "26&47376"
+    ]
+  },
+  "63378": {
+    "DATE": [
+      "June 29, 2062"
+    ],
+    "ID_NUMBER": [
+      "1A1",
+      "1A1"
+    ]
+  },
+  "74743": {
+    "DOCTOR": [
+      "Meadus"
+    ],
+    "DATE": [
+      "now"
+    ]
+  },
+  "84322": {
+    "PERSONALNAME": [
+      "Mary Johnson"
+    ],
+    "CITY": [
+      "San Francisco"
+    ],
+    "DATE": [
+      "yesterday"
+    ],
+    "DURATION": [
+      "two weeks",
+      "three hours"
+    ]
+  },
+  "60147": {
+    "PATIENT": [
+      "Susanna Patrick-Kong"
+    ],
+    "DATE": [
+      "December 10, 2063"
+    ],
+    "DEPARTMENT": [
+      "perioperative unit"
+    ],
+    "HOSPITAL": [
+      "Royal Melbourne Hospital, City Campus"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "663527965L"
+    ]
+  },
+  "64292": {
+    "CITY": [
+      "Bungaring"
+    ],
+    "STREET": [
+      "Bungaring"
+    ],
+    "STATE": [
+      "Victoria"
+    ],
+    "ZIP": [
+      "6244"
+    ],
+    "DATE": [
+      "27 December 2063"
+    ]
+  },
+  "70234": {
+    "STATE": [
+      "NJ"
+    ],
+    "PATIENT": [
+      "PJ"
+    ],
+    "DOCTOR": [
+      "AW"
+    ],
+    "DATE": [
+      "January 16, 2063",
+      "January 17, 2063"
+    ],
+    "ID_NUMBER": [
+      "ES3"
+    ]
+  },
+  "62221": {
+    "STATE": [
+      "NJ"
+    ],
+    "PATIENT": [
+      "PJ"
+    ],
+    "DOCTOR": [
+      "AW"
+    ],
+    "DATE": [
+      "January 16, 2063",
+      "January 17, 2063"
+    ],
+    "ID_NUMBER": [
+      "ES3"
+    ]
+  },
+  "73512": {
+    "DOCTOR": [
+      "Gail",
+      "Gunn",
+      "Sabonis",
+      "Benson",
+      "Randall",
+      "George",
+      "Ingalls"
+    ],
+    "PATIENT": [
+      "Lily"
+    ]
+  },
+  "62834": {
+    "DOCTOR": [
+      "Gail",
+      "Gunn",
+      "Sabonis",
+      "Benson",
+      "Randall",
+      "George",
+      "Ingalls"
+    ],
+    "PATIENT": [
+      "Lily"
+    ]
+  },
+  "64194": {
+    "DOCTOR": [
+      "PP",
+      "DL"
+    ],
+    "DATE": [
+      "January 10, 2063"
+    ],
+    "DURATION": [
+      "125mm",
+      "70mm",
+      "70mm"
+    ]
+  },
+  "61883": {
+    "PATIENT": [
+      "Austin",
+      "Austin"
+    ],
+    "STREET": [
+      "Aberfoyle Street"
+    ],
+    "CITY": [
+      "Glenella"
+    ],
+    "STATE": [
+      "Queensland"
+    ],
+    "ZIP": [
+      "6405"
+    ],
+    "DATE": [
+      "July 24, 1994"
+    ],
+    "AGE": [
+      "29"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "68T479617N"
+    ]
+  },
+  "64067": {
+    "DATE": [
+      "July 23, 2013",
+      "June 19, 1962",
+      "June 20, 1962",
+      "June 20, 1962"
+    ],
+    "DOCTOR": [
+      "Bob Kretner",
+      "Ed Shun",
+      "P. Grinton",
+      "P. Ikeda"
+    ],
+    "TIME": [
+      "10:39 AM"
+    ],
+    "HOSPITAL": [
+      "Liberty Pathology Physio-Ecranston Hospital"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "OVY",
+      "OEE"
+    ]
+  },
+  "72382": {
+    "DATE": [
+      "July 23, 2013",
+      "June 19, 1962",
+      "June 20, 1962"
+    ],
+    "DOCTOR": [
+      "Bob Kretner",
+      "Shun",
+      "P. Grinton",
+      "P. Ikeda"
+    ],
+    "TIME": [
+      "10:39 AM"
+    ],
+    "HOSPITAL": [
+      "Pathology Physio-Ecranston Hospital",
+      "Liberty Pathology"
+    ]
+  },
+  "62546": {
+    "DATE": [
+      "June 6, 2033"
+    ]
+  },
+  "60574": {
+    "DATE": [
+      "February 22, 2062"
+    ],
+    "ID_NUMBER": [
+      "7A6240.OVY"
+    ]
+  },
+  "72019": {
+    "DATE": [
+      "March 23, 2064"
+    ]
+  },
+  "71910": {
+    "DATE": [
+      "September 23, 2013",
+      "November 26, 2063"
+    ],
+    "DOCTOR": [
+      "ES",
+      "T. Q",
+      "T. Sartre"
+    ]
+  },
+  "64563": {
+    "DOCTOR": [
+      "Gavin M. Hancock",
+      "P. L.",
+      "U. E"
+    ],
+    "DATE": [
+      "September 25, 2063"
+    ],
+    "DIAGNOSIS": [
+      "squamous cell carcinoma of the right buccal mucosa"
+    ]
+  },
+  "62129": {
+    "ORGANIZATION": [
+      "Lake Cargill Legal"
+    ],
+    "DEPARTMENT": [
+      "2.PARKES8"
+    ],
+    "DOCTOR": [
+      "Cesar Lin-Wu Buko",
+      "M.Z.",
+      "J.C.",
+      "I. Kenyard"
+    ],
+    "DATE": [
+      "June 18, 2062",
+      "June 19, 2062"
+    ]
+  },
+  "83111": {
+    "PERSONALNAME": [
+      "Mary"
+    ],
+    "DOCTOR": [
+      "Zhang Li Dong"
+    ]
+  },
+  "64781": {
+    "DATE": [
+      "June 21, 2062"
+    ],
+    "DOCTOR": [
+      "Wai Wai"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "719660.OVY"
+    ]
+  },
+  "84025": {
+    "TIME": [
+      "now"
+    ]
+  },
+  "64342": {
+    "DOCTOR": [
+      "DFSP"
+    ],
+    "DATE": [
+      "June 12, 2062"
+    ]
+  },
+  "73013": {
+    "DATE": [
+      "yesterday"
+    ]
+  },
+  "64263": {
+    "DATE": [
+      "June 6, 2063"
+    ]
+  },
+  "60394": {
+    "PATIENT": [
+      "Abby Parker",
+      "Abby",
+      "Abby"
+    ],
+    "DOCTOR": [
+      "Golland"
+    ],
+    "PERSONALNAME": [
+      "Abby"
+    ],
+    "FAMILYNAME": [
+      "Parker",
+      "Abby"
+    ],
+    "DATE": [
+      "today",
+      "January 1, 2063"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "43410655.dnd",
+      "43410655",
+      "43410655"
+    ]
+  },
+  "72610": {
+    "DATE": [
+      "July 13, 2063"
+    ]
+  },
+  "84871": {
+    "PATIENT": [
+      "云昊"
+    ],
+    "NOW": [
+      "now"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "719660.OVY"
+    ]
+  },
+  "60049": {
+    "DOCTOR": [
+      "Z. Wisnowski"
+    ],
+    "DATE": [
+      "May 24, 2063"
+    ],
+    "PROFESSION": [
+      "microscopically",
+      "reported"
+    ],
+    "LOCATION-OTHER": [
+      "mind-plug margin"
+    ],
+    "DEPARTMENT": [
+      "deep margin"
+    ]
+  },
+  "74819": {
+    "DOCTOR": [
+      "P. Engers",
+      "P. Peters",
+      "P. Zendt",
+      "Perry Lavelle",
+      "Y. Watkins",
+      "Y. Sorrell"
+    ],
+    "TIME": [
+      "2.05 p.m"
+    ],
+    "DATE": [
+      "June 24, 2013"
+    ]
+  },
+  "83397": {},
+  "64226": {
+    "DOCTOR": [
+      "T. Goodley"
+    ],
+    "DATE": [
+      "June 6, 2063",
+      "June 6, 2063"
+    ]
+  },
+  "60730": {},
+  "71895": {
+    "PATIENT": [
+      "Antionet Tannis"
+    ],
+    "ID_NUMBER": [
+      "86J371568R"
+    ],
+    "STREET": [
+      "Metcalfe"
+    ],
+    "CITY": [
+      "Gondewinde"
+    ],
+    "STATE": [
+      "Tasmania"
+    ],
+    "ZIP": [
+      "2530"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "863371.PRV"
+    ]
+  },
+  "71584": {
+    "PATIENT": [
+      "Sam Haddenhausen"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "670249835I",
+      "6752498.KNI"
+    ],
+    "ID_NUMBER": [
+      "670249835I"
+    ],
+    "DATE": [
+      "11 December 1985"
+    ],
+    "STREET": [
+      "Silversmith"
+    ],
+    "CITY": [
+      "Yerawanga"
+    ],
+    "STATE": [
+      "North Sun Territory"
+    ],
+    "ZIP": [
+      "4371"
+    ]
+  },
+  "62773": {
+    "MEDICAL_RECORD_NUMBER": [
+      "222485.OEE",
+      "719660.OVY"
+    ]
+  },
+  "84018": {
+    "DEPARTMENT": [
+      "CLEAR",
+      "CLEAR",
+      "CLEAR",
+      "CLEAR",
+      "CLEAR",
+      "CLEAR",
+      "12345678"
+    ]
+  },
+  "63447": {
+    "PATIENT": [
+      "Bradley"
+    ],
+    "ZIP": [
+      "2252"
+    ]
+  },
+  "74873": {
+    "SET": [
+      "content"
+    ],
+    "DOCTOR": [
+      "Leiomyomas"
+    ],
+    "DISEASE": [
+      "and adenomyosis"
+    ]
+  },
+  "74029": {
+    "DATE": [
+      "2062"
+    ],
+    "DOCTOR": [
+      "a follicular neoplasm"
+    ]
+  },
+  "74679": {
+    "DOCTOR": [
+      "R. KORTAUER",
+      "Warner Cosmano"
+    ],
+    "TIME": [
+      "11:00 AM",
+      "12:55 PM"
+    ],
+    "DATE": [
+      "January 2, 2013",
+      "January 2, 2013"
+    ]
+  },
+  "70376": {
+    "DOCTOR": [
+      "Sullivan",
+      "Hill",
+      "Russell"
+    ],
+    "DATE": [
+      "March 18, 2063"
+    ],
+    "HOSPITAL": [
+      "Old Post Regional Health",
+      "Tom Price Hospital"
+    ]
+  },
+  "70009": {
+    "ORGANIZATION": [
+      "team of professionals"
+    ]
+  },
+  "73907": {
+    "DOCTOR": [
+      "OVY"
+    ],
+    "ID_NUMBER": [
+      "28N3505103"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "285350.nca"
+    ],
+    "DATE": [
+      "May 5, 1999"
+    ],
+    "CITY": [
+      "Almeria"
+    ],
+    "ZIP": [
+      "2727"
+    ]
+  },
+  "62224": {
+    "PATIENT": [
+      "Brandon Jefferson",
+      "Brandon Jefferson"
+    ],
+    "AGE": [
+      "78"
+    ],
+    "DOCTOR": [
+      "OVY"
+    ],
+    "ID_NUMBER": [
+      "9856253.fwh",
+      "98N625328H"
+    ],
+    "DEPARTMENT": [
+      "Cardona",
+      "District Soldiers Memorial Hospital"
+    ],
+    "STATE": [
+      "Australian Capital Territory"
+    ]
+  },
+  "71271": {
+    "DOCTOR": [
+      "Roselle Puis Del Ponto",
+      "Esich",
+      "F. Holliday"
+    ],
+    "DATE": [
+      "August 21, 2063",
+      "August 24, 2002"
+    ],
+    "PATIENT": [
+      "Puis Del Ponto",
+      "Puis Del Ponto",
+      "Puis Del Ponto"
+    ],
+    "AGE": [
+      "88",
+      "88",
+      "88"
+    ],
+    "HOSPITAL": [
+      "Wagga Wagga Rural Referral Hospital"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "222485",
+      "719660",
+      "719660"
+    ]
+  },
+  "71839": {
+    "DATE": [
+      "October 28, 1994"
+    ],
+    "DOCTOR": [
+      "Elzar Marlene Halley",
+      "Alvin Anzal-Boldo",
+      "H.N.",
+      "H"
+    ],
+    "DEPARTMENT": [
+      "Day Surgery Department"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "1824",
+      "1824"
+    ]
+  },
+  "64839": {
+    "DOCTOR": [
+      "Yue",
+      "C.Y.",
+      "Sudaro",
+      "P. Sudaro",
+      "P. Honeycutt"
+    ],
+    "DATE": [
+      "February 20, 2062",
+      "February 21, 2062",
+      "March 4, 2063"
+    ],
+    "LOCATION": [
+      "Tasman Multipurpose Center"
+    ]
+  },
+  "73180": {
+    "DATE": [
+      "May 22, 2063",
+      "July 3, 2063",
+      "May 23, 2063"
+    ],
+    "DOCTOR": [
+      "Jeremy Jeffrey Smolenski"
+    ]
+  },
+  "74211": {
+    "DOCTOR": [
+      "Joseph",
+      "Edwards",
+      "Adams",
+      "Bruchard"
+    ],
+    "DATE": [
+      "March 18, 2064"
+    ],
+    "PATIENT": [
+      "Marvin"
+    ]
+  },
+  "72919": {},
+  "70552": {
+    "PATIENT": [
+      "Renato"
+    ]
+  },
+  "60699": {
+    "DOCTOR": [
+      "Smith"
+    ],
+    "DEPARTMENT": [
+      "Radiology Department"
+    ],
+    "PATIENT": [
+      "John Doe"
+    ]
+  },
+  "64637": {
+    "DATE": [
+      "March 14, 2013",
+      "May 16, 2063"
+    ],
+    "DOCTOR": [
+      "Jewel Andrew Chimno",
+      "May 16, 2063, by"
+    ],
+    "DEPARTMENT": [
+      "Central Muscle"
+    ],
+    "HOSPITAL": [
+      "Seals Central Muscle Brook Hospital"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "719660.OVY"
+    ]
+  },
+  "74283": {
+    "DATE": [
+      "24th June 2013",
+      "27th August 2063"
+    ],
+    "DOCTOR": [
+      "Sheila Harvey-Trabert",
+      "Is",
+      "R. Treveson"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "67Q43569",
+      "222485.OEE"
+    ]
+  },
+  "63673": {
+    "DATE": [
+      "March 18, 1991",
+      "January 22, 2063",
+      "January 22, 2063"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "7A2 248 5OEE"
+    ]
+  },
+  "73837": {
+    "DOCTOR": [
+      "Rondle",
+      "Wesley"
+    ],
+    "HOSPITAL": [
+      "St. George Hospital QLD",
+      "Western District Health Service, Corrine"
+    ],
+    "TIME": [
+      "November 13, 2012 3:05PM"
+    ]
+  },
+  "64649": {
+    "PATIENT": [
+      "Micah Sigmund Perog"
+    ],
+    "ID_NUMBER": [
+      "48D79408"
+    ],
+    "DATE": [
+      "January 14, 2063"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "4817940.WYO"
+    ]
+  },
+  "73570": {
+    "DOCTOR": [
+      "Craig",
+      "Clarkson",
+      "Sabrina",
+      "Wei",
+      "Hauser",
+      "Schoenberg",
+      "Goodwin",
+      "McGrady"
+    ],
+    "DATE": [
+      "May 21, 2063",
+      "August 15, 2063"
+    ],
+    "AGE": [
+      "63"
+    ]
+  },
+  "61891": {
+    "DATE": [
+      "21st October 2013"
+    ],
+    "TIME": [
+      "2pm"
+    ],
+    "PATIENT": [
+      "Kenny Smith"
+    ],
+    "AGE": [
+      "77"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "1406494.gcr"
+    ],
+    "ID_NUMBER": [
+      "146649421r"
+    ]
+  },
+  "62398": {
+    "DOCTOR": [
+      "healthcare professionals"
+    ],
+    "HOSPITAL": [
+      "hospital"
+    ]
+  },
+  "63436": {
+    "DATE": [
+      "June 20, 2062"
+    ],
+    "DOCTOR": [
+      "Charlie Rosetta Bedgin"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "23BA0726"
+    ]
+  },
+  "74957": {
+    "TIME": [
+      "12:37 AM",
+      "1:05 PM"
+    ],
+    "DATE": [
+      "August 7, 2013",
+      "August 7, 2013"
+    ],
+    "DOCTOR": [
+      "Conning",
+      "Rendell",
+      "Golden"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "B"
+    ]
+  },
+  "71283": {
+    "PATIENT": [
+      "Thomas Hosnitz"
+    ],
+    "ID_NUMBER": [
+      "43Y186479W"
+    ],
+    "CITY": [
+      "Medley"
+    ],
+    "STREET": [
+      "Leesburg"
+    ],
+    "STATE": [
+      "South Australia"
+    ],
+    "ZIP": [
+      "3898"
+    ],
+    "DATE": [
+      "August 20, 2013"
+    ],
+    "TIME": [
+      "11:13am"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "4391864.TZW"
+    ]
+  },
+  "63704": {
+    "PATIENT": [
+      "Stephen Cook"
+    ],
+    "DATE": [
+      "Today"
+    ],
+    "ID_NUMBER": [
+      "76C432186C",
+      "760432.exp"
+    ],
+    "DOCTOR": [
+      "Stephan"
+    ]
+  },
+  "83272": {},
+  "83373": {},
+  "61611": {
+    "PATIENT": [
+      "Donovan"
+    ]
+  },
+  "72856": {
+    "DATE": [
+      "October 28, 1985",
+      "January 22, 2013"
+    ],
+    "TIME": [
+      "2.28 p.m."
+    ],
+    "DOCTOR": [
+      "Ethan Florentino-Havard"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "86I18571"
+    ]
+  },
+  "74067": {
+    "PATIENT": [
+      "Cora District Hospital patient"
+    ],
+    "DEPARTMENT": [
+      "Reno Clinic Department"
+    ],
+    "ID_NUMBER": [
+      "34.632872",
+      "34.63287A"
+    ],
+    "DATE": [
+      "yesterday"
+    ]
+  },
+  "71287": {
+    "PATIENT": [
+      "Mark"
+    ],
+    "ID_NUMBER": [
+      "83W64068"
+    ],
+    "HOSPITAL": [
+      "Alpine Health"
+    ],
+    "DEPARTMENT": [
+      "Murtaghford",
+      "Radiation Oncology Department"
+    ],
+    "DOCTOR": [
+      "Mak's"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "8386406.PTV"
+    ]
+  },
+  "64110": {
+    "DOCTOR": [
+      "Javier Shant"
+    ]
+  },
+  "63833": {
+    "PATIENT": [
+      "Bowen Rose"
+    ],
+    "DATE": [
+      "May 4, 1988"
+    ],
+    "LOCATION": [
+      "Princeton Public Surgical Center"
+    ],
+    "ID_NUMBER": [
+      "56J645476Q"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "5636454.URQ"
+    ]
+  },
+  "74389": {
+    "PATIENT": [
+      "Renee Dungas"
+    ],
+    "ID_NUMBER": [
+      "58Q137586N"
+    ],
+    "STREET": [
+      "E. Nichols"
+    ],
+    "CITY": [
+      "Natalia"
+    ],
+    "STATE": [
+      "Victoria"
+    ],
+    "ZIP": [
+      "3854"
+    ],
+    "AGE": [
+      "71-year-old female"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "5861375.XQN"
+    ]
+  },
+  "70618": {
+    "PATIENT": [
+      "Jamie"
+    ],
+    "ID_NUMBER": [
+      "55707723"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "5587077.gjm"
+    ],
+    "DOCTOR": [
+      "Jamie"
+    ],
+    "HOSPITAL": [
+      "Robert Evans Suramere"
+    ],
+    "DEPARTMENT": [
+      "Tasmania 3632 laboratory"
+    ],
+    "ZIP": [
+      "3632"
+    ]
+  },
+  "70256": {
+    "ID_NUMBER": [
+      "3596825.dxf"
+    ]
+  },
+  "61338": {
+    "DATE": [
+      "July 26, 2062"
+    ],
+    "DOCTOR": [
+      "D. Broneinger"
+    ],
+    "FAMILYNAME": [
+      "D"
+    ],
+    "DEPARTMENT": [
+      "reporting"
+    ],
+    "AGE": [
+      "PT2"
+    ],
+    "PATIENT": [
+      "PN0",
+      "PNX"
+    ],
+    "TIME": [
+      "no evidence"
+    ]
+  },
+  "71571": {
+    "DATE": [
+      "26 November 2012",
+      "29 January 2062",
+      "6 February 2062"
+    ],
+    "DOCTOR": [
+      "Q. Edwards",
+      "Q. Kalturuchi"
+    ],
+    "CITY": [
+      "Edmonton"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "222485.OEE"
+    ]
+  },
+  "71309": {
+    "DOCTOR": [
+      "OVY"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "OVY"
+    ]
+  },
+  "84744": {
+    "DATE": [
+      "next month",
+      "a week"
+    ]
+  },
+  "63860": {
+    "DOCTOR": [
+      "Smith"
+    ],
+    "PATIENT": [
+      "John Doe"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "35mm",
+      "29.9g"
+    ],
+    "DEPARTMENT": [
+      "prostate",
+      "midprostate",
+      "left",
+      "right"
+    ],
+    "AGE": [
+      "70"
+    ]
+  },
+  "61176": {
+    "STATE": [
+      "Western Australia"
+    ],
+    "DATE": [
+      "August 12, 2012"
+    ],
+    "PATIENT": [
+      "56-year-old individual"
+    ],
+    "DEPARTMENT": [
+      "Dinkinson III South Department"
+    ],
+    "HOSPITAL": [
+      "Wallaloo Hospital"
+    ]
+  },
+  "74124": {
+    "DATE": [
+      "March 17, 2063",
+      "March 3, 2063"
+    ],
+    "DOCTOR": [
+      "Smith"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "222485.OEE"
+    ]
+  },
+  "60180": {
+    "PATIENT": [
+      "Ruby",
+      "Ruby",
+      "Ruby",
+      "Ruby",
+      "Ruby"
+    ],
+    "STREET": [
+      "St. John's Cayon"
+    ],
+    "CITY": [
+      "Sea Lake"
+    ],
+    "STATE": [
+      "Crestland"
+    ],
+    "ZIP": [
+      "4695"
+    ],
+    "DATE": [
+      "June 22, 2062"
+    ],
+    "DEPARTMENT": [
+      "SWAMP's department"
+    ]
+  },
+  "61050": {
+    "ID_NUMBER": [
+      "32F514877F",
+      "32F51487"
+    ],
+    "DATE": [
+      "February 4, 2063"
+    ]
+  },
+  "63775": {
+    "DOCTOR": [
+      "Smith"
+    ],
+    "PATIENT": [
+      "John Doe"
+    ],
+    "DEPARTMENT": [
+      "Radiology Department"
+    ],
+    "ID_NUMBER": [
+      "1822"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "222485.OEE"
+    ]
+  },
+  "62168": {
+    "DATE": [
+      "May 8, 2063",
+      "July 16, 2063"
+    ],
+    "DOCTOR": [
+      "S. Galen"
+    ],
+    "DEPARTMENT": [
+      "Wilcannia Health Service"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "781230.OVY"
+    ]
+  },
+  "70121": {
+    "ID_NUMBER": [
+      "10G383655Y"
+    ],
+    "PATIENT": [
+      "Henry Harden"
+    ],
+    "STREET": [
+      "Latter-day Neron"
+    ],
+    "ZIP": [
+      "4422"
+    ],
+    "DATE": [
+      "June 30, 1987"
+    ],
+    "AGE": [
+      "36"
+    ]
+  },
+  "74585": {
+    "DATE": [
+      "December 27, 2062"
+    ]
+  },
+  "70171": {
+    "DATE": [
+      "January 14, 2063",
+      "November 27, 2062",
+      "January 14, 2063"
+    ],
+    "DOCTOR": [
+      "Reddick",
+      "Vincent",
+      "Levy"
+    ]
+  },
+  "84427": {
+    "CITY": [
+      "San Francisco"
+    ],
+    "DATE": [
+      "this way"
+    ],
+    "DURATION": [
+      "a while"
+    ]
+  },
+  "64950": {
+    "PATIENT": [
+      "patient underwent a second re-accession"
+    ],
+    "ID_NUMBER": [
+      "DCIS ductal carcinoma in situ in her left breast"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "719660.OVY"
+    ]
+  },
+  "84258": {
+    "DOCTOR": [
+      "Ovie"
+    ],
+    "ID_NUMBER": [
+      "222485"
+    ],
+    "TIME": [
+      "today"
+    ],
+    "DATE": [
+      "today"
+    ]
+  },
+  "63597": {
+    "DOCTOR": [
+      "E.Q",
+      "P.S"
+    ],
+    "DATE": [
+      "February 13, 2063"
+    ]
+  },
+  "71731": {
+    "PATIENT": [
+      "Ethel Domer Sewell"
+    ],
+    "ID_NUMBER": [
+      "26L316481M"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "26L31648",
+      "2643164.xdm"
+    ],
+    "DATE": [
+      "November 16, 2004"
+    ],
+    "STREET": [
+      "Pahumdale"
+    ],
+    "CITY": [
+      "Warwick"
+    ]
+  },
+  "64963": {
+    "PATIENT": [
+      "Daniel Bang"
+    ],
+    "ID_NUMBER": [
+      "24Y56224"
+    ],
+    "DATE": [
+      "16th of October, 2063"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "2495622.MLH"
+    ]
+  },
+  "74976": {
+    "PATIENT": [
+      "Grace Lee"
+    ],
+    "STREET": [
+      "Grand Park, No. 1, Balmerbury"
+    ],
+    "CITY": [
+      "Mount Barker District Soldiers Memorial Hospital"
+    ],
+    "ZIP": [
+      "6907"
+    ],
+    "DATE": [
+      "October 5, 1979"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "8102715.PPT"
+    ]
+  },
+  "74592": {
+    "PATIENT": [
+      "Concepcion Bolch"
+    ],
+    "ID_NUMBER": [
+      "86I185717T"
+    ],
+    "FAMILYNAME": [
+      "Bolch"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "A63185.TDS"
+    ],
+    "CITY": [
+      "Elmendorf"
+    ],
+    "STATE": [
+      "Northern Territory"
+    ],
+    "ZIP": [
+      "5321"
+    ]
+  },
+  "63268": {
+    "PATIENT": [
+      "Matt"
+    ],
+    "DATE": [
+      "Matt's journey"
+    ]
+  },
+  "71918": {
+    "TIME": [
+      "10:20 AM"
+    ],
+    "DATE": [
+      "July 18, 2063",
+      "July 11, 2063"
+    ]
+  },
+  "63744": {
+    "PERSONALNAME": [
+      "Mary"
+    ],
+    "SET": [
+      "Perineal"
+    ],
+    "DEPARTMENT": [
+      "correlation"
+    ],
+    "FAMILYNAME": [
+      "OVY",
+      "OEE"
+    ]
+  },
+  "61898": {
+    "PATIENT": [
+      "David"
+    ],
+    "STREET": [
+      "Medford, New South Wales, with a postal zip code of 4870"
+    ],
+    "DATE": [
+      "April 19, 2012"
+    ],
+    "TIME": [
+      "10:15 AM"
+    ],
+    "HOSPITAL": [
+      "Griffith Bay Hospital"
+    ],
+    "DEPARTMENT": [
+      "Parkes-Night East Department"
+    ]
+  },
+  "62774": {
+    "PATIENT": [
+      "Winnie"
+    ],
+    "FAMILYNAME": [
+      "Resides"
+    ],
+    "CITY": [
+      "Metagon"
+    ],
+    "STATE": [
+      "South Australia"
+    ],
+    "ZIP": [
+      "4674"
+    ],
+    "DATE": [
+      "June 23, 1979"
+    ],
+    "AGE": [
+      "43"
+    ]
+  },
+  "72062": {
+    "DATE": [
+      "June 6, 2018"
+    ]
+  },
+  "70580": {
+    "DATE": [
+      "March 3, 2064",
+      "April 6, 2064"
+    ],
+    "DOCTOR": [
+      "George",
+      "Marvin",
+      "Ellington",
+      "Edwards",
+      "Ruta"
+    ]
+  },
+  "73284": {
+    "DATE": [
+      "March 25, 2064"
+    ],
+    "DOCTOR": [
+      "S.D."
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "A9F79143"
+    ]
+  },
+  "71439": {
+    "PATIENT": [
+      "Victoria"
+    ],
+    "POSTALCODE": [
+      "3689"
+    ],
+    "LOCATION": [
+      "Jogranda Police Beacons",
+      "Adolescent Extended Treatment Centre"
+    ],
+    "TIME": [
+      "9:44 AM",
+      "12.05 PM"
+    ],
+    "DATE": [
+      "February 18, 2013",
+      "February 18, 2013"
+    ]
+  },
+  "83610": {
+    "DEPARTMENT": [
+      "X-ray"
+    ]
+  },
+  "73321": {
+    "DATE": [
+      "January 20, 2014"
+    ],
+    "TIME": [
+      "12:30"
+    ],
+    "DEPARTMENT": [
+      "St. Vincent's Pathology"
+    ],
+    "LOCATION-OTHER": [
+      "Crystal Grove Campus"
+    ],
+    "DOCTOR": [
+      "Myron D. Schertz",
+      "D. Gertner"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "54-15"
+    ]
+  },
+  "71541": {
+    "MEDICAL_RECORD_NUMBER": [
+      "1763"
+    ]
+  },
+  "60290": {
+    "PATIENT": [
+      "Mohamed Han"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "009423.cmg"
+    ],
+    "ID_NUMBER": [
+      "00Y42304"
+    ],
+    "DATE": [
+      "February 22, 2062"
+    ],
+    "DOCTOR": [
+      "Smith"
+    ]
+  },
+  "74404": {
+    "PATIENT": [
+      "Joe"
+    ],
+    "STREET": [
+      "Good Street"
+    ],
+    "CITY": [
+      "Bungary"
+    ],
+    "ZIP": [
+      "2217"
+    ],
+    "DATE": [
+      "November 23, 1994"
+    ],
+    "AGE": [
+      "28"
+    ],
+    "DEPARTMENT": [
+      "Arena Department"
+    ],
+    "HOSPITAL": [
+      "Arena Department of the hospital"
+    ]
+  },
+  "61402": {
+    "ORGANIZATION": [
+      "Gippsland Southern Health Service",
+      "Leon Gatha Campus",
+      "Eastern Isle Health and Aged Care Cowell Campus"
+    ],
+    "LOCATION-OTHER": [
+      "Her case"
+    ],
+    "DOCTOR": [
+      "Li"
+    ]
+  },
+  "73356": {
+    "PATIENT": [
+      "Valicia"
+    ],
+    "DATE": [
+      "August 10, 1994",
+      "January 15, 2062",
+      "January 16, 2062"
+    ],
+    "STREET": [
+      "Crownstone"
+    ],
+    "CITY": [
+      "Tomorra"
+    ],
+    "STATE": [
+      "New South Wales"
+    ],
+    "ZIP": [
+      "7012"
+    ]
+  },
+  "61905": {
+    "DOCTOR": [
+      "B. Stavostov-2"
+    ],
+    "DIAMETER": [
+      "16 mm"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "B. Stavostov-2"
+    ]
+  },
+  "64311": {
+    "PATIENT": [
+      "Bowen"
+    ],
+    "DATE": [
+      "February 19, 2063"
+    ],
+    "STREET": [
+      "Foxgate Street"
+    ],
+    "ZIP": [
+      "6415"
+    ],
+    "DOCTOR": [
+      "Jordan"
+    ]
+  },
+  "63865": {
+    "PATIENT": [
+      "Tyrone",
+      "Crude"
+    ],
+    "ID_NUMBER": [
+      "45M696991U"
+    ],
+    "DATE": [
+      "May 25, 1985"
+    ],
+    "STREET": [
+      "North East High"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "4546969.XFU"
+    ]
+  },
+  "72038": {
+    "DATE": [
+      "11/27/2012",
+      "1/30/2062"
+    ],
+    "TIME": [
+      "6:56 PM"
+    ],
+    "DEPARTMENT": [
+      "Waste Department",
+      "Waste Department"
+    ],
+    "HOSPITAL": [
+      "Girton Hospital",
+      "Girton Hospital"
+    ],
+    "DOCTOR": [
+      "Brad Terlan",
+      "McAnney",
+      "IP",
+      "LJ",
+      "B. Klemensic"
+    ],
+    "AGE": [
+      "40"
+    ]
+  },
+  "71702": {
+    "DOCTOR": [
+      "Tyler Reginald"
+    ],
+    "DATE": [
+      "November 5, 2013",
+      "January 8, 2063"
+    ]
+  },
+  "64770": {
+    "CITY": [
+      "Mora"
+    ],
+    "STATE": [
+      "Western Australia"
+    ],
+    "ZIP": [
+      "2671"
+    ],
+    "DATE": [
+      "January 30, 2009",
+      "July 11, 2013"
+    ],
+    "TIME": [
+      "6:30 PM"
+    ],
+    "HOSPITAL": [
+      "Nanango Hospital"
+    ],
+    "DEPARTMENT": [
+      "RHW department"
+    ]
+  },
+  "83045": {},
+  "61844": {},
+  "60514": {
+    "PATIENT": [
+      "Nicholas Molinaro"
+    ],
+    "ID_NUMBER": [
+      "91A48667"
+    ],
+    "DATE": [
+      "May 27, 2063"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "9104866.THL"
+    ]
+  },
+  "63765": {
+    "PATIENT": [
+      "Jamie"
+    ],
+    "DATE": [
+      "February 8, 2063",
+      "December 2, 2013"
+    ],
+    "DOCTOR": [
+      "Spector",
+      "Benson",
+      "Keper",
+      "River",
+      "Castro"
+    ]
+  },
+  "62513": {
+    "MEDICAL_RECORD_NUMBER": [
+      "A4M415A2"
+    ],
+    "DATE": [
+      "February 26, 2062"
+    ],
+    "DOCTOR": [
+      "Stanton Willie Kittles"
+    ],
+    "DEPARTMENT": [
+      "Forensic Medicine Department"
+    ]
+  },
+  "64010": {
+    "DOCTOR": [
+      "J. McKENZIE",
+      "J. STONEBURNER"
+    ]
+  },
+  "74831": {
+    "DATE": [
+      "July 11, 2004",
+      "March 18, 2013",
+      "March 18, 2013"
+    ],
+    "TIME": [
+      "1:45 PM",
+      "4:38 PM"
+    ],
+    "DEPARTMENT": [
+      "Dickinson 3 North Department"
+    ],
+    "HOSPITAL": [
+      "Kuenau-Naping Hospital"
+    ]
+  },
+  "74166": {
+    "DOCTOR": [
+      "Wagner"
+    ],
+    "DATE": [
+      "October 30, 2063"
+    ],
+    "AGE": [
+      "75"
+    ]
+  },
+  "72229": {
+    "PATIENT": [
+      "Evelyn Ledlow"
+    ],
+    "ID_NUMBER": [
+      "34F3916260"
+    ],
+    "STREET": [
+      "Braithwaite"
+    ],
+    "CITY": [
+      "Eden"
+    ],
+    "STATE": [
+      "Victoria"
+    ],
+    "ZIP": [
+      "0818"
+    ],
+    "DATE": [
+      "June 20, 1997"
+    ],
+    "DEPARTMENT": [
+      "day surgery unit"
+    ],
+    "HOSPITAL": [
+      "Women's and Children's Hospital"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "3423916.GQA"
+    ]
+  },
+  "70438": {
+    "DATE": [
+      "January 17, 2062",
+      "March 28, 2063"
+    ],
+    "DOCTOR": [
+      "C. Meritato"
+    ]
+  },
+  "63750": {
+    "PATIENT": [
+      "Elmer Briggs"
+    ],
+    "ID_NUMBER": [
+      "A4M415822F"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "A44415.WHH"
+    ],
+    "STREET": [
+      "Bellevue"
+    ],
+    "CITY": [
+      "Currie, Currie"
+    ],
+    "ZIP": [
+      "9010"
+    ],
+    "DATE": [
+      "January 2, 2006"
+    ]
+  },
+  "84095": {
+    "TIME": [
+      "11 point"
+    ],
+    "PERSONALNAME": [
+      "Tan"
+    ],
+    "FAMILYNAME": [
+      "Tan"
+    ],
+    "DOCTOR": [
+      "Tan"
+    ],
+    "CITY": [
+      "Tan"
+    ]
+  },
+  "70501": {
+    "DEPARTMENT": [
+      "A and B"
+    ]
+  },
+  "60349": {
+    "ID_NUMBER": [
+      "83029-694",
+      "83029-694"
+    ],
+    "STREET": [
+      "South Concord"
+    ],
+    "CITY": [
+      "Campotown"
+    ],
+    "STATE": [
+      "Australian Capital Territory"
+    ],
+    "DATE": [
+      "January 9, 1986"
+    ],
+    "DOCTOR": [
+      "Emmeline Cassandra Nitz"
+    ]
+  },
+  "74482": {
+    "TIME": [
+      "14:55"
+    ],
+    "DOCTOR": [
+      "Madness",
+      "Richard",
+      "Terry",
+      "Biombo",
+      "Glimor",
+      "Wesley"
+    ],
+    "DATE": [
+      "November 29, 2062"
+    ]
+  },
+  "72953": {
+    "DEPARTMENT": [
+      "acute care ward"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "818271555T",
+      "81827155"
+    ],
+    "DATE": [
+      "April 7, 2064",
+      "April 8, 2064"
+    ],
+    "DOCTOR": [
+      "Musk",
+      "Cook"
+    ]
+  },
+  "72931": {
+    "DATE": [
+      "November 4, 2013"
+    ],
+    "TIME": [
+      "1.13 p.m."
+    ],
+    "PATIENT": [
+      "19D405904T"
+    ],
+    "ID_NUMBER": [
+      "19D40590"
+    ],
+    "HOSPITAL": [
+      "Normanton Hospital"
+    ],
+    "DEPARTMENT": [
+      "anatomical pathology department"
+    ]
+  },
+  "64043": {
+    "DATE": [
+      "December 7, 2062",
+      "December 7, 2062",
+      "July 11, 2062"
+    ],
+    "DOCTOR": [
+      "Gordon"
+    ],
+    "PATIENT": [
+      "Josh"
+    ]
+  },
+  "61211": {
+    "DOCTOR": [
+      "Smith"
+    ],
+    "PATIENT": [
+      "patient"
+    ]
+  },
+  "63240": {
+    "DOCTOR": [
+      "Anne Heddington"
+    ],
+    "DATE": [
+      "yesterday"
+    ]
+  },
+  "70175": {
+    "PATIENT": [
+      "Sean"
+    ],
+    "DATE": [
+      "January 28, 2014"
+    ],
+    "TIME": [
+      "7:48 PM"
+    ],
+    "DEPARTMENT": [
+      "Parks for East department"
+    ],
+    "HOSPITAL": [
+      "Royal Prince Alfred Hospital"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "12K512-5358"
+    ]
+  },
+  "74695": {
+    "PATIENT": [
+      "Chiara Gineria"
+    ],
+    "DOCTOR": [
+      "Humberto Benson"
+    ],
+    "HOSPITAL": [
+      "Jacaranda Place"
+    ],
+    "DEPARTMENT": [
+      "Adolescent Extended Treatment Centre"
+    ],
+    "STATE": [
+      "Queensland"
+    ]
+  },
+  "60703": {
+    "PATIENT": [
+      "Teresa Tessia Hendrick"
+    ],
+    "ID_NUMBER": [
+      "55N84711"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "5558471.EBJ"
+    ]
+  },
+  "84062": {
+    "AGE": [
+      "78"
+    ],
+    "CITY": [
+      "San Francisco"
+    ]
+  },
+  "63464": {
+    "DATE": [
+      "yesterday"
+    ]
+  },
+  "72886": {
+    "DATE": [
+      "April 2063"
+    ],
+    "DOCTOR": [
+      "W. Wallenweider",
+      "W. Grasso"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "2063-14th"
+    ]
+  },
+  "70543": {
+    "DOCTOR": [
+      "Gill",
+      "Weston"
+    ],
+    "ID_NUMBER": [
+      "12K51253"
+    ]
+  },
+  "72244": {
+    "SET": [
+      "care"
+    ]
+  },
+  "83711": {
+    "DOCTOR": [
+      "Wu Chang",
+      "Rain Independent",
+      "Rain Independent"
+    ],
+    "PATIENT": [
+      "Taota"
+    ]
+  },
+  "72322": {
+    "DEPARTMENT": [
+      "Forensic Medicine Department"
+    ],
+    "HOSPITAL": [
+      "Goldburn Valley Health Center for Older Persons"
+    ],
+    "DATE": [
+      "June 24, 2013"
+    ],
+    "TIME": [
+      "9:19 AM"
+    ],
+    "DOCTOR": [
+      "Tommy Herschel-Auglo"
+    ]
+  },
+  "83291": {
+    "DEPARTMENT": [
+      "外科",
+      "骨科"
+    ],
+    "PERSONALNAME": [
+      "我"
+    ],
+    "TIME": [
+      "那時"
+    ],
+    "ORGANIZATION": [
+      "一直"
+    ],
+    "LOCATION": [
+      "主好"
+    ],
+    "DOCTOR": [
+      "我"
+    ],
+    "AGE": [
+      "一個球"
+    ],
+    "SET": [
+      "竟然"
+    ],
+    "ID_NUMBER": [
+      "122485"
+    ],
+    "CITY": [
+      "躺著"
+    ],
+    "STATE": [
+      "不能動"
+    ],
+    "DURATION": [
+      "現在"
+    ]
+  },
+  "71995": {
+    "DATE": [
+      "March 21, 2013",
+      "May 24, 2063",
+      "2047"
+    ],
+    "TIME": [
+      "7.51 p.m."
+    ],
+    "DOCTOR": [
+      "Randolph"
+    ]
+  },
+  "73528": {
+    "DOCTOR": [
+      "Sharp",
+      "Mitchell",
+      "Wood",
+      "Wood",
+      "Houston"
+    ],
+    "TIME": [
+      "October 16, 2012 4:26PM"
+    ],
+    "DATE": [
+      "December 19, 2062"
+    ]
+  },
+  "83411": {
+    "ORGANIZATION": [
+      "Suboy"
+    ]
+  },
+  "64816": {
+    "DATE": [
+      "October 25, 2013"
+    ],
+    "TIME": [
+      "1:20 PM"
+    ],
+    "DOCTOR": [
+      "Marvin",
+      "Polwell",
+      "Kaplan",
+      "Dr."
+    ],
+    "HOSPITAL": [
+      "Tocumwul Hospital"
+    ],
+    "DEPARTMENT": [
+      "Prince of Wales Private Department"
+    ]
+  },
+  "60376": {
+    "DATE": [
+      "June 6, 2033"
+    ],
+    "TIME": [
+      "PM"
+    ]
+  },
+  "71473": {
+    "DOCTOR": [
+      "R. Snowden",
+      "Freddie Eames"
+    ],
+    "DEPARTMENT": [
+      "Bridgetown Hospital"
+    ],
+    "DATE": [
+      "today"
+    ]
+  },
+  "63197": {
+    "PATIENT": [
+      "Daniel"
+    ],
+    "DOCTOR": [
+      "Crown",
+      "Russell",
+      "Harvey"
+    ],
+    "DATE": [
+      "14th of October, 2063"
+    ],
+    "ID_NUMBER": [
+      "14th of October, 2063"
+    ]
+  },
+  "60022": {
+    "DOCTOR": [
+      "Mars",
+      "Kerr",
+      "Martin"
+    ]
+  },
+  "63082": {
+    "PATIENT": [
+      "Donald Mammal"
+    ],
+    "ID_NUMBER": [
+      "05K17604"
+    ],
+    "DOCTOR": [
+      "IQ"
+    ],
+    "DATE": [
+      "April 22, 2016"
+    ],
+    "SET": [
+      "clinical presentation",
+      "right thyroid lobe",
+      "frozen section"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "054176.ALM"
+    ]
+  },
+  "73248": {
+    "PATIENT": [
+      "Ashley Unstead"
+    ],
+    "ID_NUMBER": [
+      "01U10653"
+    ],
+    "DATE": [
+      "November 15, 2063",
+      "November 14, 2063"
+    ],
+    "DOCTOR": [
+      "X.W.",
+      "A. Hohenstein"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "017106.NIV"
+    ]
+  },
+  "72869": {
+    "ID_NUMBER": [
+      "Draymond Nash"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "66F-7488372",
+      "6617488.IUG"
+    ]
+  },
+  "71324": {
+    "PATIENT": [
+      "Vince Carter"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "4972645AU"
+    ],
+    "STREET": [
+      "Kilverton Street"
+    ],
+    "LOCATION-OTHER": [
+      "San Remo"
+    ],
+    "STATE": [
+      "Queensland"
+    ],
+    "ZIP": [
+      "4004"
+    ],
+    "DATE": [
+      "March 24, 1973"
+    ],
+    "ID_NUMBER": [
+      "VINCENT"
+    ]
+  },
+  "72234": {
+    "PATIENT": [
+      "Ashton Pilar"
+    ],
+    "ID_NUMBER": [
+      "57Y-79447"
+    ],
+    "DATE": [
+      "January 28, 2062"
+    ],
+    "DOCTOR": [
+      "Chiu-Kyu",
+      "Wai-Dee",
+      "N. Borah"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "5797944.TMS"
+    ]
+  },
+  "72011": {},
+  "71232": {
+    "PATIENT": [
+      "Cletus Elena Roswell"
+    ],
+    "ID_NUMBER": [
+      "13RA3A781W"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "136A387.VEW"
+    ],
+    "DATE": [
+      "July 13, 1991"
+    ],
+    "STREET": [
+      "Wano Street"
+    ],
+    "CITY": [
+      "Burney"
+    ]
+  },
+  "72631": {
+    "PATIENT": [
+      "Larry Batten"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "6123848.mrk"
+    ],
+    "DATE": [
+      "April 24, 1987"
+    ],
+    "STREET": [
+      "Nimble Street"
+    ],
+    "CITY": [
+      "Derby"
+    ],
+    "ZIP": [
+      "4158"
+    ]
+  },
+  "60387": {
+    "DEPARTMENT": [
+      "16th lymph nodes"
+    ]
+  },
+  "64353": {
+    "DATE": [
+      "27 December 2063"
+    ],
+    "DOCTOR": [
+      "Tracy Sexton"
+    ]
+  },
+  "64903": {
+    "DATE": [
+      "November 14, 2013"
+    ],
+    "TIME": [
+      "1:09 PM"
+    ],
+    "SET": [
+      "mastectomy",
+      "sentinel lymph node biopsy"
+    ],
+    "ID_NUMBER": [
+      "27K59264"
+    ],
+    "DOCTOR": [
+      "Jim Monroe"
+    ]
+  },
+  "84364": {
+    "CITY": [
+      "San Francisco",
+      "San Francisco"
+    ],
+    "SET": [
+      "three times"
+    ]
+  },
+  "63149": {
+    "DATE": [
+      "September 5, 2014",
+      "February 12, 2063"
+    ],
+    "PATIENT": [
+      "Oman"
+    ],
+    "AGE": [
+      "54"
+    ]
+  },
+  "72747": {
+    "DATE": [
+      "October 10, 2062",
+      "October 11, 2062"
+    ],
+    "DOCTOR": [
+      "Valentine",
+      "Griffin",
+      "Collins",
+      "Holliday",
+      "Butler",
+      "Hart"
+    ],
+    "PATIENT": [
+      "Susan"
+    ]
+  },
+  "83619": {
+    "CITY": [
+      "San Francisco"
+    ]
+  },
+  "73911": {
+    "DATE": [
+      "August 7, 2063"
+    ],
+    "DOCTOR": [
+      "O.E"
+    ]
+  },
+  "63312": {
+    "DATE": [
+      "Tuesday"
+    ],
+    "TIME": [
+      "evening"
+    ],
+    "ID_NUMBER": [
+      "222485"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "OEE"
+    ]
+  },
+  "72693": {
+    "YEAR": [
+      "2061",
+      "2064"
+    ],
+    "DOCTOR": [
+      "Goodwin",
+      "Everson"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "lab number"
+    ]
+  },
+  "61938": {
+    "DOCTOR": [
+      "Smith",
+      "OVY"
+    ],
+    "DATE": [
+      "yesterday"
+    ],
+    "DURATION": [
+      "two weeks"
+    ],
+    "TIME": [
+      "evening"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "222485"
+    ]
+  },
+  "74951": {
+    "PATIENT": [
+      "Marvin Rundle"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "91913.nlf"
+    ],
+    "STREET": [
+      "St. Wilfrid Street"
+    ],
+    "CITY": [
+      "Mount Isa"
+    ],
+    "STATE": [
+      "Queensland"
+    ],
+    "ZIP": [
+      "1597"
+    ],
+    "DATE": [
+      "April 13, 2020"
+    ],
+    "DURATION": [
+      "ongoing"
+    ]
+  },
+  "73663": {
+    "PATIENT": [
+      "Sima Jorge-Laurence"
+    ],
+    "ID_NUMBER": [
+      "38I037645D"
+    ],
+    "LAB_NUMBER": [
+      "38I03764"
+    ],
+    "CITY": [
+      "Ritter Northern"
+    ],
+    "STREET": [
+      "WA2573"
+    ],
+    "DATE": [
+      "March 23, 2010"
+    ],
+    "TIME": [
+      "right mastectomy"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "3830376.KMD"
+    ]
+  },
+  "63167": {
+    "PATIENT": [
+      "Steve"
+    ],
+    "ID_NUMBER": [
+      "76C43218"
+    ],
+    "STREET": [
+      "Memel Street"
+    ],
+    "CITY": [
+      "Conombo"
+    ],
+    "STATE": [
+      "TAS"
+    ],
+    "ZIP": [
+      "7054"
+    ],
+    "DATE": [
+      "3rd May 2002"
+    ]
+  },
+  "70122": {
+    "DATE": [
+      "July 16, 2013"
+    ],
+    "TIME": [
+      "8:26 AM"
+    ],
+    "DOCTOR": [
+      "Rundle"
+    ],
+    "PATIENT": [
+      "Mark"
+    ],
+    "AGE": [
+      "73"
+    ]
+  },
+  "73518": {
+    "DATE": [
+      "December 4, 2062",
+      "November 26, 2062"
+    ],
+    "DOCTOR": [
+      "Zak",
+      "Moss",
+      "Thompson",
+      "Irving",
+      "Wood",
+      "Pearson"
+    ]
+  },
+  "74634": {
+    "PATIENT": [
+      "Ren Long"
+    ],
+    "AGE": [
+      "35"
+    ],
+    "FAMILYNAME": [
+      "Long"
+    ],
+    "ID_NUMBER": [
+      "64Z28833"
+    ],
+    "DATE": [
+      "February 22, 2033"
+    ],
+    "DEPARTMENT": [
+      "Spanager"
+    ]
+  },
+  "64041": {
+    "DEPARTMENT": [
+      "Prince of Wales Private"
+    ],
+    "HOSPITAL": [
+      "Wagon Hospital"
+    ],
+    "DOCTOR": [
+      "Amsterdam"
+    ]
+  },
+  "74348": {
+    "PATIENT": [
+      "Kamala Hardwick"
+    ],
+    "ID_NUMBER": [
+      "08Y637302C"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "089637.kbh"
+    ],
+    "DOCTOR": [
+      "Buffett"
+    ],
+    "CITY": [
+      "Overstone"
+    ],
+    "STATE": [
+      "Victoria"
+    ],
+    "ZIP": [
+      "3113"
+    ],
+    "DATE": [
+      "24th December 1999"
+    ]
+  },
+  "73233": {
+    "PATIENT": [
+      "Mike Garland"
+    ],
+    "AGE": [
+      "34"
+    ],
+    "ID_NUMBER": [
+      "6454915.ttj"
+    ],
+    "FAMILYNAME": [
+      "Garland"
+    ],
+    "STREET": [
+      "Old Cobhound Street"
+    ],
+    "CITY": [
+      "Wellington"
+    ],
+    "STATE": [
+      "Australian Capital Territory"
+    ],
+    "ZIP": [
+      "5462"
+    ]
+  },
+  "84600": {
+    "DOCTOR": [
+      "He is a hospital resident"
+    ],
+    "PERSONALNAME": [
+      "He"
+    ],
+    "CITY": [
+      "San Francisco"
+    ]
+  },
+  "64310": {
+    "DOCTOR": [
+      "M. Hubel",
+      "M. Major",
+      "M. Orozco"
+    ],
+    "TIME": [
+      "1055AM"
+    ],
+    "DATE": [
+      "January 22, 2063"
+    ]
+  },
+  "60740": {
+    "PATIENT": [
+      "Kimberly Wasson",
+      "Kimberly"
+    ],
+    "DATE": [
+      "December 20, 2000"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "04F676535Y",
+      "0426765.JNY"
+    ],
+    "ID_NUMBER": [
+      "04F6765335Y"
+    ]
+  },
+  "60167": {
+    "PATIENT": [
+      "John Doe"
+    ]
+  },
+  "60084": {
+    "DATE": [
+      "October 12, 2062"
+    ],
+    "DOCTOR": [
+      "Z.H."
+    ],
+    "SPECIMEN": [
+      "hyaluronate lymph node"
+    ],
+    "ID_NUMBER": [
+      "1",
+      "2",
+      "to",
+      "11"
+    ]
+  },
+  "71432": {
+    "ID_NUMBER": [
+      "614Z28835J"
+    ],
+    "DOCTOR": [
+      "Bernarda Luana McMahon",
+      "Q. Prom",
+      "DD"
+    ],
+    "PATIENT": [
+      "She"
+    ],
+    "DEPARTMENT": [
+      "Board District Health Operating Theatres"
+    ],
+    "DATE": [
+      "January 7, 2063",
+      "January 8, 2063"
+    ],
+    "DURATION": [
+      "two years"
+    ]
+  },
+  "64590": {
+    "PATIENT": [
+      "Josh Giddey"
+    ],
+    "DATE": [
+      "Today"
+    ],
+    "DOCTOR": [
+      "Peter McCallum Cancer Center"
+    ],
+    "FAMILYNAME": [
+      "Josh"
+    ],
+    "STREET": [
+      "Sun Country Street"
+    ],
+    "CITY": [
+      "Muswell Brook"
+    ],
+    "STATE": [
+      "Western Australia"
+    ],
+    "ZIP": [
+      "2232"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "2186683.xwn"
+    ]
+  },
+  "60905": {
+    "TIME": [
+      "1.52 PM"
+    ],
+    "PATIENT": [
+      "Mandy"
+    ],
+    "DEPARTMENT": [
+      "Medic Surgery Ward"
+    ],
+    "DOCTOR": [
+      "Gild"
+    ],
+    "HOSPITAL": [
+      "Nemnops Hospital"
+    ]
+  },
+  "62445": {
+    "DOCTOR": [
+      "Hugh"
+    ],
+    "ID_NUMBER": [
+      "7A",
+      "EE"
+    ]
+  },
+  "74728": {
+    "DOCTOR": [
+      "a group of highly skilled specialists"
+    ]
+  },
+  "64264": {
+    "PATIENT": [
+      "Milton Winston"
+    ],
+    "AGE": [
+      "19"
+    ],
+    "STATE": [
+      "Western Australia"
+    ],
+    "ID_NUMBER": [
+      "30R504360Y"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "30R504360Y",
+      "3065043.QBY",
+      "3065043.QBY"
+    ]
+  },
+  "63855": {
+    "PATIENT": [
+      "Remy Randolph"
+    ],
+    "ID_NUMBER": [
+      "62T188722J",
+      "62T18872",
+      "62T18872"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "6271887.FFJ"
+    ]
+  },
+  "64029": {
+    "PATIENT": [
+      "Luke Robinson"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "1331571.mru",
+      "13J15714"
+    ]
+  },
+  "84778": {
+    "DATE": [
+      "今天"
+    ],
+    "TIME": [
+      "今天"
+    ],
+    "HOSPITAL": [
+      "东方医院"
+    ],
+    "DEPARTMENT": [
+      "南祥辉医治"
+    ]
+  },
+  "73219": {},
+  "71224": {
+    "DOCTOR": [
+      "Patrice",
+      "O. Wendland",
+      "Tarka",
+      "O. Songer"
+    ],
+    "ID_NUMBER": [
+      "222485"
+    ],
+    "DEPARTMENT": [
+      "Pathology"
+    ],
+    "HOSPITAL": [
+      "St. Vincent's Pathology"
+    ],
+    "CITY": [
+      "Vincent's Pathology"
+    ],
+    "TIME": [
+      "evening"
+    ]
+  },
+  "74382": {
+    "HOSPITAL": [
+      "Lourdes Hospital and Community Services"
+    ],
+    "DEPARTMENT": [
+      "medic surgery ward"
+    ],
+    "PATIENT": [
+      "Holly Dean",
+      "Kilmer Downs"
+    ],
+    "CITY": [
+      "Victoria"
+    ],
+    "ZIP": [
+      "2821"
+    ],
+    "DATE": [
+      "May 10, 1989"
+    ],
+    "DOCTOR": [
+      "Elvis Earl Elwood",
+      "C.N"
+    ]
+  },
+  "71100": {
+    "DOCTOR": [
+      "Owen"
+    ],
+    "PATIENT": [
+      "Jack"
+    ],
+    "DATE": [
+      "June 6, 2033"
+    ]
+  },
+  "70830": {
+    "ID_NUMBER": [
+      "930381802J",
+      "9353818.agj"
+    ]
+  },
+  "83386": {
+    "TIME": [
+      "10:30 AM"
+    ],
+    "DURATION": [
+      "three tables"
+    ]
+  },
+  "74732": {
+    "DOCTOR": [
+      "Kershaw",
+      "White",
+      "Cooper",
+      "Harper",
+      "Vincent",
+      "Non"
+    ],
+    "PATIENT": [
+      "Janie"
+    ]
+  },
+  "73140": {
+    "DOCTOR": [
+      "Phil Bratton-Rydensk",
+      "WY",
+      "Zing Em",
+      "E. Blago",
+      "E. Ruders",
+      "E. Dickensies",
+      "E. Nadert"
+    ],
+    "TIME": [
+      "4.58 p.m."
+    ],
+    "DATE": [
+      "August 20, 2013"
+    ]
+  },
+  "60779": {
+    "DATE": [
+      "December 17, 2012"
+    ],
+    "TIME": [
+      "9:40"
+    ],
+    "DOCTOR": [
+      "Rich Blinston"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "940"
+    ],
+    "ID_NUMBER": [
+      "80%"
+    ]
+  },
+  "74035": {
+    "DOCTOR": [
+      "Barnes",
+      "Iverson",
+      "Lawson",
+      "Sharon",
+      "Lamar",
+      "Barnes",
+      "Iverson",
+      "Lawson",
+      "Sharon",
+      "Lamar",
+      "Barnes",
+      "Iverson",
+      "Lawson",
+      "Sharon",
+      "Lamar"
+    ],
+    "DATE": [
+      "January 7, 2063",
+      "January 7, 2063",
+      "January 8, 2063",
+      "April 13, 2064",
+      "April 13, 2064",
+      "January 7, 2063",
+      "January 7, 2063",
+      "January 8, 2063",
+      "April 13, 2064",
+      "April 13, 2064"
+    ]
+  },
+  "62378": {
+    "DATE": [
+      "March 7, 2013",
+      "March 7, 2013",
+      "March 7, 2013",
+      "March 7, 2013"
+    ],
+    "TIME": [
+      "2:47 PM",
+      "4 PM"
+    ],
+    "DEPARTMENT": [
+      "IMVS Department",
+      "Department"
+    ],
+    "DOCTOR": [
+      "Darren Brooks",
+      "Horace Bodemer",
+      "Miki Wolfensberger",
+      "Jay Gola"
+    ],
+    "HOSPITAL": [
+      "Bulford and Skipton Health Services",
+      "Bulford Campus"
+    ],
+    "CITY": [
+      "Bulford Campus"
+    ]
+  },
+  "73169": {
+    "DEPARTMENT": [
+      "community team"
+    ]
+  },
+  "70107": {
+    "ID_NUMBER": [
+      "14G082750U",
+      "14G08275"
+    ],
+    "PATIENT": [
+      "Emily Cooper"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "1420827.pcu"
+    ]
+  },
+  "74854": {
+    "PATIENT": [
+      "Felicia Willers"
+    ],
+    "DATE": [
+      "March 22, 1999",
+      "February 12, 2063"
+    ],
+    "ID_NUMBER": [
+      "01Z-395670B",
+      "019395RSB",
+      "01Z-39567"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "01Z-395670B",
+      "019395RSB"
+    ]
+  },
+  "63619": {
+    "DOCTOR": [
+      "Frost",
+      "Valentine",
+      "Hector",
+      "Hero",
+      "Jeffrey"
+    ],
+    "DATE": [
+      "February 18, 2063"
+    ],
+    "HOSPITAL": [
+      "Bunbury Hospital"
+    ]
+  },
+  "84772": {},
+  "70654": {
+    "DOCTOR": [
+      "W.E.",
+      "N.F.",
+      "V.Lubo"
+    ],
+    "DATE": [
+      "March 23, 2064"
+    ],
+    "DIAGNOSIS": [
+      "metastatic pancreatic islet cell tumor in the right ovary and at the fimbrio end of the right fallopian tube"
+    ]
+  },
+  "71009": {
+    "DOCTOR": [
+      "Simmons"
+    ],
+    "DATE": [
+      "February 22, 2062",
+      "March 25, 2064"
+    ]
+  },
+  "73014": {
+    "ID_NUMBER": [
+      "93B37342"
+    ]
+  },
+  "72770": {
+    "PATIENT": [
+      "Lauren Weston",
+      "Lauren"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "0255496.lyz"
+    ],
+    "STREET": [
+      "South Claremont Street"
+    ],
+    "CITY": [
+      "Cobar"
+    ],
+    "STATE": [
+      "Provincial"
+    ],
+    "AGE": [
+      "18",
+      "2012"
+    ],
+    "DATE": [
+      "Today"
+    ]
+  },
+  "71062": {
+    "DATE": [
+      "January 15, 2014",
+      "March 25, 2064",
+      "March 18, 2064"
+    ],
+    "DOCTOR": [
+      "G. Ndringa",
+      "IR"
+    ],
+    "HOSPITAL": [
+      "Taibu Bua Health Service"
+    ]
+  },
+  "71791": {
+    "DOCTOR": [
+      "Peter",
+      "Halliburton",
+      "Tatum",
+      "A. Temple",
+      "Reeves",
+      "Reaver"
+    ],
+    "TIME": [
+      "September 4, 2013 at 9:50 AM"
+    ],
+    "ID_NUMBER": [
+      "040-34153"
+    ]
+  },
+  "61989": {
+    "DOCTOR": [
+      "Smith",
+      "OVY"
+    ]
+  },
+  "73921": {
+    "PATIENT": [
+      "Viola Van Schick"
+    ],
+    "ID_NUMBER": [
+      "57R276859P"
+    ],
+    "STREET": [
+      "Windbridge"
+    ],
+    "CITY": [
+      "Hillisville"
+    ],
+    "STATE": [
+      "South Australia"
+    ],
+    "ZIP": [
+      "3025"
+    ],
+    "DATE": [
+      "September 29, 1997"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "5762768.NXP"
+    ]
+  },
+  "70926": {
+    "PATIENT": [
+      "Quartz",
+      "Quartz",
+      "Northwest Pacific Isle",
+      "Northwest Pacific Isle"
+    ],
+    "ID_NUMBER": [
+      "72486712X"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "7234867.cgx"
+    ],
+    "STREET": [
+      "Northwest Pacific Isle"
+    ],
+    "CITY": [
+      "Windsor"
+    ],
+    "STATE": [
+      "NT"
+    ],
+    "ZIP": [
+      "2073"
+    ],
+    "DATE": [
+      "May 30, 2008"
+    ]
+  },
+  "62002": {
+    "PATIENT": [
+      "Otis Oatley"
+    ],
+    "ID_NUMBER": [
+      "52P41147"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "5264114.sno"
+    ],
+    "DATE": [
+      "yesterday"
+    ]
+  },
+  "61622": {
+    "PATIENT": [
+      "Steve",
+      "Steve",
+      "Steve"
+    ],
+    "DOCTOR": [
+      "Lindsay",
+      "Alex",
+      "Memphis"
+    ],
+    "DATE": [
+      "January 20, 2063"
+    ]
+  },
+  "60245": {
+    "DATE": [
+      "Feb 12, 2063"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "Oval-Marchesney Medical Record No. 741756.BUW"
+    ],
+    "ID_NUMBER": [
+      "74E75607"
+    ]
+  },
+  "70822": {
+    "DATE": [
+      "December 5, 2063",
+      "December 5, 2063"
+    ],
+    "DOCTOR": [
+      "Hale District Hospital"
+    ],
+    "LOCATION-OTHER": [
+      "Trafalgar"
+    ]
+  },
+  "82968": {},
+  "74906": {
+    "PATIENT": [
+      "Alyssa Simons"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "761807.ptm"
+    ],
+    "STREET": [
+      "Faraday Street"
+    ],
+    "CITY": [
+      "Grenfell"
+    ],
+    "ZIP": [
+      "2825"
+    ],
+    "DATE": [
+      "December 6, 1995"
+    ],
+    "AGE": [
+      "25"
+    ]
+  },
+  "64350": {
+    "TIME": [
+      "4.25 p.m."
+    ],
+    "DATE": [
+      "same day"
+    ],
+    "DOCTOR": [
+      "Rossi",
+      "Adden",
+      "Troy",
+      "Rowland",
+      "Radley"
+    ],
+    "ID_NUMBER": [
+      "719660"
+    ]
+  },
+  "70657": {
+    "DURATION": [
+      "only 0.1 mm"
+    ]
+  },
+  "61865": {
+    "DOCTOR": [
+      "V. Raimondo",
+      "Opper"
+    ],
+    "PATIENT": [
+      "Virgilio Hicken"
+    ],
+    "DATE": [
+      "May 14, 2013"
+    ],
+    "TIME": [
+      "530PM"
+    ]
+  },
+  "84546": {
+    "DURATION": [
+      "over a few days"
+    ]
+  },
+  "60466": {
+    "MEDICAL_RECORD_NUMBER": [
+      "083-5983-CMA"
+    ],
+    "PATIENT": [
+      "Oman Puth"
+    ]
+  },
+  "71737": {
+    "PATIENT": [
+      "patient"
+    ],
+    "SET": [
+      "final diagnosis"
+    ],
+    "TIME": [
+      "now"
+    ],
+    "DEPARTMENT": [
+      "palatal",
+      "palatal",
+      "palatal"
+    ],
+    "LOCATION-OTHER": [
+      "superior",
+      "inferior",
+      "lateral margin palatal"
+    ],
+    "DURATION": [
+      "from"
+    ]
+  },
+  "63959": {
+    "DOCTOR": [
+      "Koo",
+      "Sohan"
+    ],
+    "DATE": [
+      "July 23, 2062"
+    ]
+  },
+  "71997": {
+    "DATE": [
+      "September 21, 2063",
+      "September 20, 2063"
+    ],
+    "DOCTOR": [
+      "K. Vectel",
+      "C.S."
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "719660",
+      "OEE"
+    ]
+  },
+  "63689": {
+    "DOCTOR": [
+      "Anita",
+      "Duren",
+      "Gorton",
+      "Page"
+    ],
+    "DATE": [
+      "December 7, 2062"
+    ]
+  },
+  "61684": {
+    "TIME": [
+      "447 PM"
+    ],
+    "DOCTOR": [
+      "Old",
+      "Newt",
+      "Gary Juries"
+    ],
+    "PATIENT": [
+      "Cassie"
+    ],
+    "DEPARTMENT": [
+      "Southwestern Area Departments"
+    ],
+    "DATE": [
+      "March 25, 2013"
+    ]
+  },
+  "74784": {
+    "PATIENT": [
+      "Chris"
+    ],
+    "DATE": [
+      "July 7, 2000"
+    ],
+    "STREET": [
+      "T'Ali Street"
+    ],
+    "CITY": [
+      "Davenport"
+    ],
+    "STATE": [
+      "Western Australia"
+    ],
+    "ZIP": [
+      "3614"
+    ],
+    "HOSPITAL": [
+      "Pembula District Hospital"
+    ],
+    "DEPARTMENT": [
+      "Pathology West"
+    ]
+  },
+  "72541": {
+    "DATE": [
+      "November 27, 2012"
+    ],
+    "TIME": [
+      "4.38pm"
+    ],
+    "PATIENT": [
+      "Laura"
+    ],
+    "DEPARTMENT": [
+      "Macquarie Ward"
+    ],
+    "DOCTOR": [
+      "Bronson",
+      "Ingram",
+      "Allen"
+    ]
+  },
+  "60617": {
+    "STREET": [
+      "German Street"
+    ],
+    "LOCATION": [
+      "Anthony Lagoon, South Australia"
+    ],
+    "ZIP": [
+      "5540"
+    ],
+    "DATE": [
+      "4 August 2013"
+    ],
+    "AGE": [
+      "50"
+    ]
+  },
+  "64154": {
+    "DOCTOR": [
+      "Hunter",
+      "George",
+      "Lofton"
+    ],
+    "DATE": [
+      "December 10, 2013",
+      "February 13, 2063"
+    ],
+    "TIME": [
+      "12:47 p.m."
+    ]
+  },
+  "61924": {
+    "PATIENT": [
+      "Sarah Brown"
+    ],
+    "AGE": [
+      "62"
+    ],
+    "DOCTOR": [
+      "Sarah"
+    ],
+    "ID_NUMBER": [
+      "74M52173"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "7445217.IE"
+    ]
+  },
+  "73067": {
+    "DOCTOR": [
+      "Adams",
+      "Bosch",
+      "Cook",
+      "Kuzma",
+      "Morin"
+    ],
+    "DATE": [
+      "December 19, 2012"
+    ],
+    "TIME": [
+      "1050AM",
+      "1240PM"
+    ]
+  },
+  "73316": {
+    "PATIENT": [
+      "Murray Bridge Soldiers Memorial Hospital",
+      "His case"
+    ],
+    "DEPARTMENT": [
+      "Obstetrics Department",
+      "Department of Oman"
+    ],
+    "DOCTOR": [
+      "O'Neill",
+      "Monk",
+      "Oman",
+      "Edwards",
+      "Stone"
+    ],
+    "TIME": [
+      "9:18 AM"
+    ],
+    "DATE": [
+      "June 6, 2012"
+    ]
+  },
+  "64870": {
+    "PATIENT": [
+      "Linda"
+    ],
+    "STREET": [
+      "Asphalt Wind Street"
+    ],
+    "CITY": [
+      "Bayview"
+    ],
+    "STATE": [
+      "Western Australia"
+    ],
+    "ZIP": [
+      "7215"
+    ],
+    "DATE": [
+      "June 7, 2005",
+      "April 23, 2012"
+    ],
+    "TIME": [
+      "1.09 PM"
+    ]
+  },
+  "84329": {
+    "DATE": [
+      "today"
+    ],
+    "PERSONALNAME": [
+      "Tony"
+    ],
+    "TEACHER": [
+      "Tanaka"
+    ],
+    "TIME": [
+      "today"
+    ]
+  },
+  "84366": {
+    "DOCTOR": [
+      "Zhang"
+    ],
+    "DEPARTMENT": [
+      "五費啦"
+    ]
+  },
+  "62572": {},
+  "72233": {
+    "PATIENT": [
+      "Hugo Cardona"
+    ],
+    "AGE": [
+      "March 18, 1991",
+      "77"
+    ],
+    "CITY": [
+      "Lund, Devonport, Victoria"
+    ],
+    "DEPARTMENT": [
+      "combined breast and poorly differentiated endometrial cancer"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "452-3523.QJX"
+    ],
+    "ID_NUMBER": [
+      ""
+    ]
+  },
+  "71349": {
+    "ID_NUMBER": [
+      "43W-890-6191"
+    ],
+    "DATE": [
+      "January 16, 2062"
+    ],
+    "PATIENT": [
+      "Joe"
+    ],
+    "DEPARTMENT": [
+      "St. Vincent Department"
+    ],
+    "DOCTOR": [
+      "Freyer",
+      "Cook"
+    ]
+  },
+  "60500": {
+    "DOCTOR": [
+      "Anne Tintenberg"
+    ],
+    "OVARIAN_MASS": [
+      "right ovary"
+    ]
+  },
+  "70914": {
+    "PATIENT": [
+      "Judson Rufino Ridley"
+    ],
+    "ID_NUMBER": [
+      "09S129787Z"
+    ],
+    "STREET": [
+      "Lazy Point"
+    ],
+    "CITY": [
+      "Bellion"
+    ],
+    "STATE": [
+      "Queensland"
+    ],
+    "ZIP": [
+      "5732"
+    ],
+    "DATE": [
+      "17 January 2010"
+    ],
+    "AGE": [
+      "female"
+    ]
+  },
+  "70698": {
+    "ID_NUMBER": [
+      "35X68251"
+    ],
+    "DATE": [
+      "July 7, 2000"
+    ],
+    "STREET": [
+      "High Lake Street"
+    ],
+    "CITY": [
+      "Madingley"
+    ],
+    "STATE": [
+      "South Australia"
+    ],
+    "ZIP": [
+      "1138"
+    ],
+    "DEPARTMENT": [
+      "Tasman Multipurpose Center",
+      "specifically"
+    ]
+  },
+  "62444": {
+    "PATIENT": [
+      "Crane-Stunkin"
+    ],
+    "ID_NUMBER": [
+      "94I70355HG"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "9437035.NXG"
+    ]
+  },
+  "62001": {
+    "DOCTOR": [
+      "RF",
+      "BL",
+      "A"
+    ],
+    "DATE": [
+      "October 29, 2063"
+    ],
+    "PATIENT": [
+      "patient"
+    ]
+  },
+  "73481": {
+    "DATE": [
+      "December 12, 2012"
+    ],
+    "TIME": [
+      "4.45PM"
+    ]
+  },
+  "64238": {
+    "DATE": [
+      "August 13, 2063",
+      "May 8, 2063"
+    ],
+    "PATIENT": [
+      "Federico Wemmicks"
+    ]
+  },
+  "73373": {
+    "DATE": [
+      "August 15, 2063"
+    ],
+    "PATIENT": [
+      "Edison"
+    ]
+  },
+  "62718": {
+    "PATIENT": [
+      "Worcester Park"
+    ],
+    "STREET": [
+      "Bradford"
+    ],
+    "CITY": [
+      "Tasmania"
+    ],
+    "ZIP": [
+      "5277"
+    ],
+    "DATE": [
+      "July 23, 2013"
+    ],
+    "TIME": [
+      "8:49 AM"
+    ],
+    "HOSPITAL": [
+      "Gamaracha Hospital"
+    ],
+    "DEPARTMENT": [
+      "RHW department"
+    ]
+  },
+  "62480": {
+    "MEDICAL_RECORD_NUMBER": [
+      "M6872962"
+    ],
+    "STREET": [
+      "Old Street"
+    ],
+    "CITY": [
+      "Cooktown"
+    ],
+    "STATE": [
+      "Victoria"
+    ],
+    "ZIP": [
+      "3762"
+    ],
+    "DATE": [
+      "May 9, 1999",
+      "June 28, 2062"
+    ],
+    "DOCTOR": [
+      "Gap"
+    ]
+  },
+  "64466": {
+    "ID_NUMBER": [
+      "22I5-42891M"
+    ],
+    "PATIENT": [
+      "Anton"
+    ],
+    "STREET": [
+      "Roshas Fleet, Red Cliff"
+    ],
+    "ZIP": [
+      "1238"
+    ]
+  },
+  "64748": {
+    "DATE": [
+      "February 19, 2063",
+      "February 18, 2063"
+    ],
+    "PATIENT": [
+      "Anton",
+      "Anton"
+    ]
+  },
+  "64202": {
+    "DATE": [
+      "November 8, 2063"
+    ],
+    "DOCTOR": [
+      "SNR"
+    ]
+  },
+  "84053": {
+    "PERSONALNAME": [
+      "淑英",
+      "何志祥",
+      "何志祥"
+    ],
+    "DOCTOR": [
+      "忍耐一下",
+      "忍耐一下",
+      "忍耐一下",
+      "忍耐一下"
+    ],
+    "PATIENT": [
+      "You",
+      "You",
+      "You",
+      "You"
+    ]
+  },
+  "71596": {
+    "ID_NUMBER": [
+      "97R027811M"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "97R02781"
+    ],
+    "DATE": [
+      "February 20, 2013"
+    ],
+    "TIME": [
+      "7:20 AM"
+    ],
+    "PATIENT": [
+      "Jimmy"
+    ],
+    "HOSPITAL": [
+      "Tocumel Hospital"
+    ],
+    "DEPARTMENT": [
+      "Parks 9 East Department"
+    ]
+  },
+  "73620": {
+    "DATE": [
+      "April 30, 2063"
+    ]
+  },
+  "63387": {
+    "DATE": [
+      "June 25, 2062",
+      "June 28, 2062"
+    ],
+    "DOCTOR": [
+      "Vixens",
+      "Gilmore"
+    ],
+    "LOCATION-OTHER": [
+      "Journey dudes"
+    ]
+  },
+  "60626": {
+    "DATE": [
+      "June 28, 2062"
+    ],
+    "LOCATION-OTHER": [
+      "South Gippsland Hospital"
+    ],
+    "PATIENT": [
+      "Gap"
+    ]
+  },
+  "62262": {
+    "TIME": [
+      "14:10 PM"
+    ],
+    "DATE": [
+      "25th October 2013"
+    ],
+    "LOCATION-OTHER": [
+      "Orroroo Campus"
+    ]
+  },
+  "83281": {
+    "DATE": [
+      "June 30, 20XX"
+    ],
+    "AGE": [
+      "73"
+    ],
+    "PATIENT": [
+      "Zhang Ai"
+    ]
+  },
+  "61438": {
+    "DOCTOR": [
+      "G. Frears"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "110985.OEE"
+    ]
+  },
+  "73607": {
+    "DOCTOR": [
+      "Bryan",
+      "Johnson",
+      "Lillard",
+      "Winston",
+      "Mann"
+    ],
+    "DATE": [
+      "September 25, 2063",
+      "September 25, 2063",
+      "February 15, 2062"
+    ]
+  },
+  "83836": {
+    "PERSONALNAME": [
+      "Mary"
+    ],
+    "CITY": [
+      "San Francisco"
+    ]
+  },
+  "71705": {
+    "ID_NUMBER": [
+      "14G08275"
+    ],
+    "PATIENT": [
+      "Emily"
+    ],
+    "DATE": [
+      "November 3, 1978"
+    ],
+    "STREET": [
+      "W. Adams Street"
+    ],
+    "CITY": [
+      "Thornhill"
+    ],
+    "STATE": [
+      "QLD"
+    ],
+    "ZIP": [
+      "2455"
+    ]
+  },
+  "83343": {
+    "PATIENT": [
+      "Li"
+    ],
+    "DOCTOR": [
+      "Long Gun"
+    ],
+    "HOSPITAL": [
+      "Leo Medical Institute"
+    ]
+  },
+  "71784": {
+    "DATE": [
+      "September 24, 2013",
+      "September 24, 2013",
+      "November 27, 2063"
+    ],
+    "TIME": [
+      "1.22pm",
+      "2.45pm"
+    ],
+    "DOCTOR": [
+      "Eynix",
+      "Feljus Danilo Lomban"
+    ]
+  },
+  "60814": {
+    "ID_NUMBER": [
+      "5023233",
+      "5023233",
+      "50F32337",
+      "50F32337"
+    ],
+    "DOCTOR": [
+      "Jarlene Jona-Garindo",
+      "XZ",
+      "Anne Bollick",
+      "Anne Schumacher"
+    ]
+  },
+  "64878": {
+    "DATE": [
+      "February 11, 2063",
+      "February 13, 2063"
+    ],
+    "SET": [
+      "VITAS care"
+    ]
+  },
+  "70374": {
+    "DEPARTMENT": [
+      "glioblastoma"
+    ],
+    "AGE": [
+      "4"
+    ]
+  },
+  "83934": {
+    "DURATION": [
+      "These few days",
+      "in many moments",
+      "in the present",
+      "still",
+      "is monitoring"
+    ],
+    "TIME": [
+      "now",
+      "now"
+    ]
+  },
+  "64811": {
+    "PATIENT": [
+      "Jonathan Wooden"
+    ],
+    "ID_NUMBER": [
+      "73W325465Z"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "7383254.qoz"
+    ]
+  },
+  "70379": {
+    "PATIENT": [
+      "Ricky Angel"
+    ],
+    "ID_NUMBER": [
+      "30E50776"
+    ],
+    "DATE": [
+      "February 12, 2062"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "301507.URB"
+    ]
+  },
+  "70465": {
+    "PATIENT": [
+      "Penny Wald"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "3080067.pie"
+    ],
+    "DATE": [
+      "June 2, 1988"
+    ],
+    "STREET": [
+      "Da Costa Street"
+    ],
+    "CITY": [
+      "Bowen"
+    ],
+    "ZIP": [
+      "6020"
+    ]
+  },
+  "61379": {
+    "DOCTOR": [
+      "QR"
+    ],
+    "DATE": [
+      "February 19, 2062"
+    ]
+  },
+  "72358": {
+    "DATE": [
+      "May 27, 2064"
+    ]
+  },
+  "70269": {
+    "ID_NUMBER": [
+      "56098616",
+      "Good day"
+    ],
+    "PATIENT": [
+      "Bill Duncan"
+    ],
+    "DEPARTMENT": [
+      "Marumba Hardin Hospital"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "5650986.DRT"
+    ]
+  },
+  "62403": {
+    "DEPARTMENT": [
+      "West Department"
+    ],
+    "DOCTOR": [
+      "Giuseppe Olenzanchi",
+      "VZ",
+      "Z Ishida"
+    ],
+    "CITY": [
+      "Tunkery"
+    ],
+    "ZIP": [
+      "2326"
+    ],
+    "DATE": [
+      "August 10, 2062"
+    ],
+    "DURATION": [
+      "a right hemicolectomy"
+    ]
+  },
+  "73772": {
+    "DOCTOR": [
+      "Robinson",
+      "Vinn",
+      "Poofe",
+      "Martin"
+    ],
+    "DATE": [
+      "March 11, 2064"
+    ]
+  },
+  "73079": {
+    "DOCTOR": [
+      "Kaminsky",
+      "Alfonso",
+      "Stephenson",
+      "Willenson",
+      "Whitmer",
+      "Scott",
+      "Musk",
+      "Porter",
+      "Iverson"
+    ],
+    "DATE": [
+      "July 16, 2063",
+      "July 9, 2063"
+    ]
+  },
+  "62208": {
+    "DOCTOR": [
+      "Eddie",
+      "Monica",
+      "Wendy",
+      "Bill"
+    ]
+  },
+  "63828": {
+    "DOCTOR": [
+      "X. Hessek"
+    ],
+    "PATIENT": [
+      "patient"
+    ]
+  },
+  "71800": {
+    "TIME": [
+      "10:20 AM"
+    ],
+    "DOCTOR": [
+      "Romney",
+      "Fisher",
+      "England",
+      "Rondo"
+    ],
+    "SET": [
+      "same day"
+    ]
+  },
+  "60914": {
+    "DEPARTMENT": [
+      "Invoy Pathology Department"
+    ],
+    "DOCTOR": [
+      "Rose",
+      "Sullivan",
+      "Ed Bell",
+      "Bowen"
+    ],
+    "TIME": [
+      "1.45PM"
+    ]
+  },
+  "63948": {
+    "DOCTOR": [
+      "Lu",
+      "E. Nizzo"
+    ],
+    "DATE": [
+      "May 20, 2063"
+    ]
+  },
+  "71530": {
+    "DOCTOR": [
+      "James",
+      "Edwards",
+      "Hill",
+      "Prezijans"
+    ]
+  },
+  "62940": {
+    "PATIENT": [
+      "Steve Butler"
+    ],
+    "AGE": [
+      "70"
+    ],
+    "STATE": [
+      "Australian Capital Territory"
+    ],
+    "DOCTOR": [
+      "Steve"
+    ],
+    "DEPARTMENT": [
+      "Department of Corrective Services",
+      "Alpine Health in Medford"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "A2A5A32.BGQ"
+    ],
+    "ID_NUMBER": [
+      "A2U5A3202Q"
+    ],
+    "LAB_NUMBER": [
+      "A2U5A3202Q"
+    ]
+  },
+  "61175": {
+    "DOCTOR": [
+      "Smith"
+    ],
+    "DATE": [
+      "Tuesday"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "222485.OEE"
+    ]
+  },
+  "84500": {
+    "DATE": [
+      "今天"
+    ],
+    "TIME": [
+      "下午4"
+    ],
+    "DOCTOR": [
+      "醫師"
+    ],
+    "DEPARTMENT": [
+      "本院生產"
+    ],
+    "PATIENT": [
+      "Lin Shuangyong"
+    ]
+  },
+  "71767": {
+    "DATE": [
+      "March 2064"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "43W89061"
+    ]
+  },
+  "62616": {
+    "DATE": [
+      "October 18, 2001"
+    ],
+    "PATIENT": [
+      "resides"
+    ],
+    "STREET": [
+      "Sealake, Queensland"
+    ],
+    "ZIP": [
+      "1235"
+    ]
+  },
+  "64059": {
+    "PATIENT": [
+      "Barbara Buwanis"
+    ],
+    "ID_NUMBER": [
+      "69-73-D193H"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "69-47-351-XJH",
+      "69-73-D19"
+    ],
+    "STREET": [
+      "Shana Street"
+    ],
+    "CITY": [
+      "Boney Hills"
+    ],
+    "STATE": [
+      "Vic"
+    ],
+    "ZIP": [
+      "10-37"
+    ]
+  },
+  "74214": {
+    "DOCTOR": [
+      "G. Schninker"
+    ]
+  },
+  "84005": {
+    "CITY": [
+      "San Francisco"
+    ]
+  },
+  "64512": {},
+  "70343": {
+    "PATIENT": [
+      "patient in the right breast"
+    ],
+    "ID_NUMBER": [
+      "222485"
+    ],
+    "DATE": [
+      "June 6, 2063"
+    ]
+  },
+  "61540": {
+    "DOCTOR": [
+      "JX",
+      "D.F"
+    ],
+    "DATE": [
+      "February 19, 2062"
+    ],
+    "DURATION": [
+      "120mm x 20mm"
+    ]
+  },
+  "64339": {
+    "DATE": [
+      "February date",
+      "February 12, 2063"
+    ]
+  },
+  "83495": {
+    "PERSONALNAME": [
+      "Zhao Ming"
+    ],
+    "DOCTOR": [
+      "Zhou"
+    ],
+    "DATE": [
+      "now"
+    ],
+    "ID_NUMBER": [
+      "776521"
+    ]
+  },
+  "74892": {
+    "DATE": [
+      "June 6, 2018"
+    ]
+  },
+  "70286": {
+    "PATIENT": [
+      "Billie"
+    ]
+  },
+  "63771": {
+    "TIME": [
+      "9.26 AM"
+    ],
+    "DEPARTMENT": [
+      "Parker's Aid Department"
+    ],
+    "DOCTOR": [
+      "Irving",
+      "Hopper",
+      "Iverson",
+      "Eldridge",
+      "Spike",
+      "Oden"
+    ],
+    "DATE": [
+      "February 13, 2063"
+    ]
+  },
+  "62498": {
+    "DATE": [
+      "June 6, 2063"
+    ]
+  },
+  "70653": {
+    "DATE": [
+      "October 30, 2062",
+      "November 27, 2062"
+    ],
+    "ID_NUMBER": [
+      "Zach"
+    ]
+  },
+  "62998": {
+    "PATIENT": [
+      "Lydia Kalina Ostrom"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "7255097.fvq"
+    ],
+    "ID_NUMBER": [
+      "72N50972"
+    ]
+  },
+  "62931": {
+    "PATIENT": [
+      "Claude Johnny Vickens"
+    ],
+    "ID_NUMBER": [
+      "738163106J"
+    ],
+    "FAMILYNAME": [
+      "Vickens"
+    ],
+    "DEPARTMENT": [
+      "730163.fbq"
+    ],
+    "STREET": [
+      "Copper Tree"
+    ],
+    "CITY": [
+      "Murray Bridge"
+    ],
+    "ZIP": [
+      "3494"
+    ]
+  },
+  "63624": {
+    "DATE": [
+      "November 19, 2013"
+    ],
+    "TIME": [
+      "15:59 p.m."
+    ],
+    "DEPARTMENT": [
+      "Postoperative Recovery Department"
+    ],
+    "DOCTOR": [
+      "Frankie Daisy Traola",
+      "Blake Shoff",
+      "VD",
+      "KL",
+      "NR"
+    ],
+    "ID_NUMBER": [
+      "02B05243"
+    ]
+  },
+  "71264": {},
+  "62905": {
+    "PATIENT": [
+      "Kayla Royce Brennan"
+    ],
+    "ID_NUMBER": [
+      "9052479.gma",
+      "90N247924A",
+      "90N24792"
+    ],
+    "DATE": [
+      "September 30, 1981",
+      "June 7, 2012"
+    ],
+    "TIME": [
+      "1.32 p.m."
+    ]
+  },
+  "63963": {
+    "DEPARTMENT": [
+      "HAPS department"
+    ],
+    "DOCTOR": [
+      "Goodman",
+      "Henderson",
+      "Thomas"
+    ],
+    "DATE": [
+      "May 14, 2012"
+    ],
+    "TIME": [
+      "12 p.m."
+    ]
+  },
+  "62457": {
+    "DOCTOR": [
+      "Knight",
+      "Wilson",
+      "Randolph"
+    ],
+    "DATE": [
+      "July 3, 2062"
+    ],
+    "PATIENT": [
+      "Willie"
+    ]
+  },
+  "70285": {
+    "DOCTOR": [
+      "Trena Dilbert",
+      "YN",
+      "JU",
+      "QM"
+    ],
+    "DATE": [
+      "January 15, 2014",
+      "March 18, 2064",
+      "March 24, 2064"
+    ],
+    "TIME": [
+      "11:12 a.m."
+    ]
+  },
+  "71988": {
+    "PATIENT": [
+      "Bradley Beale"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "1914059.bmt"
+    ],
+    "DATE": [
+      "July 10, 1990"
+    ],
+    "STREET": [
+      "East Como Street"
+    ],
+    "CITY": [
+      "Cooktown"
+    ],
+    "STATE": [
+      "Australian Capital Territory"
+    ],
+    "ZIP": [
+      "3956"
+    ]
+  },
+  "84469": {
+    "DEPARTMENT": [
+      "HCT",
+      "SMA"
+    ],
+    "DOCTOR": [
+      "V"
+    ]
+  },
+  "60633": {
+    "PATIENT": [
+      "Ian"
+    ],
+    "DOCTOR": [
+      "Ellis",
+      "Antonio",
+      "Cameron",
+      "Mann",
+      "Gregg"
+    ],
+    "DEPARTMENT": [
+      "Deaconson II South Department"
+    ],
+    "HOSPITAL": [
+      "Peter James Center"
+    ]
+  },
+  "64384": {
+    "DATE": [
+      "July 11, 2062"
+    ],
+    "DOCTOR": [
+      "Frankston",
+      "Rapson",
+      "Zuckerberg"
+    ],
+    "PATIENT": [
+      "Terence"
+    ]
+  },
+  "73196": {
+    "DOCTOR": [
+      "Smith",
+      "Charlotte",
+      "Koukas",
+      "Polinka"
+    ],
+    "PATIENT": [
+      "Austin",
+      "Austin"
+    ],
+    "AGE": [
+      "57"
+    ],
+    "DATE": [
+      "October 16, 2063"
+    ]
+  },
+  "70055": {
+    "ID_NUMBER": [
+      "33B11348"
+    ],
+    "DOCTOR": [
+      "Brooke",
+      "Smith",
+      "Terry",
+      "Bronner",
+      "Jonas"
+    ]
+  },
+  "73391": {
+    "DOCTOR": [
+      "Sugar Decker",
+      "G. Tito",
+      "G. Leerman"
+    ],
+    "TIME": [
+      "3.05 PM"
+    ],
+    "DATE": [
+      "August 27, 2013"
+    ]
+  },
+  "63585": {
+    "DATE": [
+      "next week"
+    ]
+  },
+  "60226": {
+    "PATIENT": [
+      "Donovan"
+    ],
+    "DEPARTMENT": [
+      "S.T. Vincent's Pathology Department",
+      "St. Eden Hall and District Memorial Hospital"
+    ],
+    "DOCTOR": [
+      "Temple",
+      "Parker",
+      "Russell",
+      "Griffin"
+    ],
+    "DATE": [
+      "December 24, 2062"
+    ]
+  },
+  "62959": {
+    "DOCTOR": [
+      "Donovan"
+    ],
+    "STREET": [
+      "Elk Hill Street"
+    ],
+    "TOWN": [
+      "Rosemason"
+    ],
+    "STATE": [
+      "Tasmania"
+    ],
+    "ZIP": [
+      "5118"
+    ],
+    "DATE": [
+      "April 24, 1981"
+    ]
+  },
+  "73664": {
+    "DOCTOR": [
+      "Lurie"
+    ],
+    "DATE": [
+      "January 28, 2014"
+    ],
+    "TIME": [
+      "4.27 PM"
+    ]
+  },
+  "70069": {
+    "DATE": [
+      "April 22, 2013",
+      "June 25, 2063"
+    ],
+    "TIME": [
+      "1.42 p.m.",
+      "June 25, 2063"
+    ],
+    "DEPARTMENT": [
+      "State Surgical Unit"
+    ],
+    "DOCTOR": [
+      "Adlai Jude-Edit",
+      "Z.B",
+      "Y. Falcon"
+    ],
+    "PATIENT": [
+      "September 24, 1996",
+      "male"
+    ]
+  },
+  "72176": {
+    "DOCTOR": [
+      "Stein",
+      "Winston",
+      "Ingram"
+    ],
+    "DATE": [
+      "November 6, 2062"
+    ]
+  },
+  "73257": {
+    "PATIENT": [
+      "Jesus Graham",
+      "Jesus Graham",
+      "Jesus Graham",
+      "Jesus Graham"
+    ],
+    "ID_NUMBER": [
+      "160443405"
+    ],
+    "FAMILYNAME": [
+      "Graham",
+      "Graham",
+      "Graham",
+      "Graham"
+    ],
+    "PERSONALNAME": [
+      "Jesus",
+      "Jesus",
+      "Jesus",
+      "Jesus"
+    ],
+    "DATE": [
+      "July 5, 2033",
+      "October 22, 2063"
+    ],
+    "CITY": [
+      "Wales",
+      "Wales"
+    ],
+    "STATE": [
+      "Wales",
+      "5141"
+    ],
+    "HOSPITAL": [
+      "Derby Hospital",
+      "Quarantinary Department"
+    ],
+    "DEPARTMENT": [
+      "Quarantinary Department"
+    ]
+  },
+  "84523": {
+    "DEPARTMENT": [
+      "VTO Dermatoscope"
+    ],
+    "DURATION": [
+      "Sanseal Euclid"
+    ]
+  },
+  "73940": {
+    "PATIENT": [
+      "Warren Jaquetta Humphreys"
+    ],
+    "AGE": [
+      "66",
+      "66"
+    ],
+    "ID_NUMBER": [
+      "61P04469OC"
+    ],
+    "STREET": [
+      "K-Lock"
+    ],
+    "CITY": [
+      "Townsville"
+    ],
+    "STATE": [
+      "Vic"
+    ],
+    "ZIP": [
+      "2558"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "616446.ZCC"
+    ]
+  },
+  "64437": {
+    "DOCTOR": [
+      "Wood",
+      "Lawson",
+      "Thompson"
+    ],
+    "HOSPITAL": [
+      "Camberlades Hospital"
+    ]
+  },
+  "63182": {
+    "PATIENT": [
+      "Mitchell Caruso"
+    ],
+    "DATE": [
+      "August 19, 1987"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "620797.oyi",
+      "62B797593H"
+    ],
+    "ID_NUMBER": [
+      "62B79759"
+    ]
+  },
+  "70538": {
+    "DATE": [
+      "October 28, 2015",
+      "August 27, 2063"
+    ],
+    "DOCTOR": [
+      "I.F."
+    ]
+  },
+  "61702": {
+    "PATIENT": [
+      "Dennis Booker"
+    ],
+    "ID_NUMBER": [
+      "57U529989P",
+      "57U52998",
+      "57U52998"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "5775299.VZP"
+    ]
+  },
+  "83332": {
+    "PERSONALNAME": [
+      "Mary"
+    ],
+    "DATE": [
+      "this time",
+      "Christmas"
+    ],
+    "TIME": [
+      "summer"
+    ],
+    "LOCATION-OTHER": [
+      "our community"
+    ]
+  },
+  "74253": {
+    "PATIENT": [
+      "Melanie Wake"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "470-7225.XWZ"
+    ],
+    "ID_NUMBER": [
+      "47B-72258"
+    ]
+  },
+  "63406": {
+    "PATIENT": [
+      "Corey Singh Loken"
+    ],
+    "ID_NUMBER": [
+      "50U941240L"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "50U94124",
+      "5079412.LAL"
+    ],
+    "PERSONALNAME": [
+      "Corey"
+    ]
+  },
+  "62211": {
+    "DATE": [
+      "December 17, 2012"
+    ],
+    "TIME": [
+      "4:30"
+    ],
+    "DOCTOR": [
+      "Eric Hugo Alvarez-Rido"
+    ]
+  },
+  "73924": {
+    "DATE": [
+      "March 23, 2064",
+      "March 24, 2064"
+    ],
+    "DOCTOR": [
+      "Tucker",
+      "Duren",
+      "Spencer"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "242325.OVY"
+    ]
+  },
+  "63365": {
+    "PATIENT": [
+      "Sonny Healy"
+    ],
+    "AGE": [
+      "21"
+    ],
+    "DATE": [
+      "February 3, 2001"
+    ],
+    "ID_NUMBER": [
+      "11F433143E"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "1114331.LIE"
+    ]
+  },
+  "63389": {
+    "DATE": [
+      "December 4, 2013"
+    ],
+    "TIME": [
+      "9.08 AM"
+    ],
+    "DOCTOR": [
+      "Robinson",
+      "Silver",
+      "Volk",
+      "Davidson",
+      "Mills"
+    ],
+    "PATIENT": [
+      "Austin"
+    ]
+  },
+  "73842": {
+    "PATIENT": [
+      "John Doe"
+    ],
+    "DEPARTMENT": [
+      "Radiology Department"
+    ],
+    "AGE": [
+      "78"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "OVY"
+    ]
+  },
+  "64057": {
+    "DOCTOR": [
+      "H. Militano"
+    ],
+    "DURATION": [
+      "44 by 35 by 27 millimeters"
+    ],
+    "AGE": [
+      "30.7"
+    ]
+  },
+  "72977": {
+    "ID_NUMBER": [
+      "1023836",
+      "10G38365"
+    ],
+    "PATIENT": [
+      "Henry"
+    ]
+  },
+  "70979": {
+    "PATIENT": [
+      "Ken Mull"
+    ],
+    "ID_NUMBER": [
+      "62S021442",
+      "62S02144"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "6270214.mfh",
+      "62S02144"
+    ],
+    "CITY": [
+      "Yale-Enderwood"
+    ],
+    "STATE": [
+      "TAS"
+    ],
+    "ZIP": [
+      "2042"
+    ],
+    "ORGANIZATION": [
+      "Pathology North",
+      "Western District Health Service",
+      "Hamilton"
+    ]
+  },
+  "73347": {
+    "PATIENT": [
+      "Oliver Martin"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "5540108.000"
+    ],
+    "STREET": [
+      "Brook Tree Ranch"
+    ],
+    "CITY": [
+      "Penguin"
+    ],
+    "STATE": [
+      "South Australia"
+    ],
+    "ZIP": [
+      "7119"
+    ],
+    "DATE": [
+      "February 17, 1994"
+    ],
+    "HOSPITAL": [
+      "Redland Hospital"
+    ],
+    "DEPARTMENT": [
+      "Prince of Wales Private Department"
+    ]
+  },
+  "60373": {
+    "ORGANIZATION": [
+      "Altair Corporation",
+      "Bombarda Multipurpose Service Hospital",
+      "Broome Hospital"
+    ],
+    "DEPARTMENT": [
+      "Association with",
+      "Multipurpose Service Hospital",
+      "Broome Hospital"
+    ],
+    "COMPANY": [
+      "Bombarda",
+      "Broome Hospital"
+    ]
+  },
+  "62697": {
+    "PATIENT": [
+      "Stephan Pano"
+    ],
+    "DATE": [
+      "Today"
+    ],
+    "DOCTOR": [
+      "P"
+    ],
+    "FAMILYNAME": [
+      "Pano"
+    ],
+    "AGE": [
+      "August 6, 1993"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "745716.dxl"
+    ],
+    "ID_NUMBER": [
+      "74071668",
+      "74071668"
+    ]
+  },
+  "74681": {
+    "PATIENT": [
+      "Mary Johnson"
+    ]
+  },
+  "74851": {
+    "DATE": [
+      "March 18, 2064"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "222485"
+    ]
+  },
+  "82985": {
+    "CITY": [
+      "San Francisco"
+    ]
+  },
+  "71535": {
+    "DOCTOR": [
+      "Wagner",
+      "Elish",
+      "Colby",
+      "Lanner"
+    ],
+    "ID_NUMBER": [
+      "MAD19876"
+    ]
+  },
+  "63301": {
+    "ID_NUMBER": [
+      "08K59830"
+    ],
+    "PATIENT": [
+      "Oman Puth"
+    ],
+    "STREET": [
+      "Garman Street"
+    ],
+    "CITY": [
+      "Penrith"
+    ],
+    "ZIP": [
+      "4030"
+    ]
+  },
+  "63323": {},
+  "74582": {
+    "DATE": [
+      "June 5, 2063"
+    ],
+    "ID_NUMBER": [
+      "76B"
+    ]
+  },
+  "73133": {
+    "DATE": [
+      "date 5415"
+    ],
+    "TIME": [
+      "1 o'clock p.m."
+    ],
+    "DOCTOR": [
+      "D. Maxey",
+      "D. Darden"
+    ],
+    "SET": [
+      "January 20, 2014"
+    ]
+  },
+  "61595": {
+    "DATE": [
+      "both of wounds"
+    ]
+  },
+  "72606": {
+    "PATIENT": [
+      "Oliver Smith"
+    ],
+    "ID_NUMBER": [
+      "37E85950"
+    ],
+    "DATE": [
+      "December 25, 2063"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "3718595.AHH"
+    ]
+  },
+  "62110": {
+    "DEPARTMENT": [
+      "cardioesophageal junction"
+    ],
+    "DISTANCE": [
+      "16mm",
+      "90mm",
+      "70mm"
+    ]
+  },
+  "71790": {
+    "ID_NUMBER": [
+      "45F352363X",
+      "45F35236",
+      "45F35236"
+    ],
+    "DATE": [
+      "January 21, 2063"
+    ],
+    "DOCTOR": [
+      "Salsa Cassie Corgi"
+    ]
+  },
+  "74189": {
+    "DOCTOR": [
+      "P.N"
+    ],
+    "DATE": [
+      "March 2, 2063",
+      "September 12, 2063"
+    ],
+    "ID_NUMBER": [
+      "February 5, 2062"
+    ]
+  },
+  "60275": {
+    "PATIENT": [
+      "Marine Kua"
+    ],
+    "ID_NUMBER": [
+      "75E777209Z"
+    ],
+    "DEPARTMENT": [
+      "HAPS Department"
+    ],
+    "STREET": [
+      "Nelson Parry"
+    ],
+    "CITY": [
+      "Tandon Creek, 21-30"
+    ],
+    "DATE": [
+      "May 7, 2002"
+    ],
+    "TIME": [
+      "09:00 AM"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "7517777.FCZ"
+    ]
+  },
+  "64602": {
+    "PATIENT": [
+      "Willie"
+    ],
+    "DATE": [
+      "April 30, 2012"
+    ],
+    "TIME": [
+      "12:33 PM"
+    ],
+    "HOSPITAL": [
+      "Crosser Pine Hospital"
+    ],
+    "DEPARTMENT": [
+      "Pathology North",
+      "Juni Multipurpose Service"
+    ],
+    "ID_NUMBER": [
+      "222485"
+    ]
+  },
+  "72690": {
+    "ORGANIZATION": [
+      "health care management"
+    ]
+  },
+  "60253": {
+    "DOCTOR": [
+      "H. Bodin",
+      "H. Harlow"
+    ],
+    "PROFESSION": [
+      "serous borderline tumor",
+      "low-grade serous carcinoma"
+    ],
+    "FAMILYNAME": [
+      "Harlow",
+      "Harlow"
+    ],
+    "ORGANIZATION": [
+      "right ovary",
+      "fimbria",
+      "right fallopian tube",
+      "left ovary"
+    ]
+  },
+  "72782": {
+    "PATIENT": [
+      "Julia West"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "3399276.ihf"
+    ],
+    "STREET": [
+      "Worthy Moore Street"
+    ],
+    "CITY": [
+      "Grenfell"
+    ],
+    "ZIP": [
+      "2539"
+    ]
+  },
+  "64460": {
+    "PATIENT": [
+      "DeAndre Krunovac"
+    ],
+    "ID_NUMBER": [
+      "140556659"
+    ],
+    "DATE": [
+      "March 10, 1999"
+    ],
+    "STREET": [
+      "Pendennis"
+    ],
+    "CITY": [
+      "Mount Isa"
+    ],
+    "ZIP": [
+      "3712"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "145556.QOR"
+    ]
+  },
+  "74638": {
+    "DATE": [
+      "January 8, 2014"
+    ],
+    "TIME": [
+      "7.40 p.m."
+    ],
+    "PATIENT": [
+      "Vince"
+    ],
+    "DEPARTMENT": [
+      "Envoy Pathology Department"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "49T2-6450-0U",
+      "49T2-6450-49T2-6450"
+    ]
+  },
+  "84613": {},
+  "73288": {
+    "DATE": [
+      "June 1, 2063",
+      "July 4, 2063"
+    ],
+    "DOCTOR": [
+      "T. Bucklew"
+    ]
+  },
+  "72576": {
+    "DOCTOR": [
+      "H. Zee",
+      "H. De La Rosa"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "222485"
+    ]
+  },
+  "73062": {
+    "DATE": [
+      "July 11, 2063",
+      "June 11, 2063"
+    ],
+    "DOCTOR": [
+      "Wesley",
+      "Robinson",
+      "Valenciunas"
+    ]
+  },
+  "60741": {
+    "PATIENT": [
+      "Ramiro Marti"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "376710.nbm"
+    ],
+    "ID_NUMBER": [
+      "376710"
+    ]
+  },
+  "71768": {
+    "DATE": [
+      "May 12, 2062"
+    ],
+    "PATIENT": [
+      "Shuren"
+    ]
+  },
+  "84337": {
+    "DEPARTMENT": [
+      "model"
+    ]
+  },
+  "62173": {
+    "DATE": [
+      "January 23, 2063"
+    ],
+    "DOCTOR": [
+      "Alphonse Mervin-Telias",
+      "Basil",
+      "LZ",
+      "XS"
+    ],
+    "DURATION": [
+      "245",
+      "85"
+    ]
+  },
+  "61956": {
+    "DOCTOR": [
+      "XZ",
+      "Z",
+      "Z"
+    ],
+    "DATE": [
+      "December 13, 2012"
+    ],
+    "TIME": [
+      "12:35 PM"
+    ]
+  },
+  "72396": {
+    "PATIENT": [
+      "Joe Musk"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "4388906.exy"
+    ],
+    "DATE": [
+      "July 13, 1991"
+    ],
+    "STREET": [
+      "Diablo Vista Street"
+    ],
+    "CITY": [
+      "Saduma"
+    ],
+    "STATE": [
+      "Queensland"
+    ],
+    "ZIP": [
+      "4307"
+    ]
+  },
+  "83710": {
+    "DATE": [
+      "now"
+    ]
+  },
+  "84244": {
+    "DEPARTMENT": [
+      "Key"
+    ],
+    "CITY": [
+      "San Francisco"
+    ],
+    "DURATION": [
+      "early"
+    ]
+  },
+  "83530": {
+    "PERSONALNAME": [
+      "Mary"
+    ],
+    "CITY": [
+      "San Francisco"
+    ]
+  },
+  "70219": {
+    "DATE": [
+      "January 20, 2014"
+    ],
+    "TIME": [
+      "11:46 AM"
+    ],
+    "DEPARTMENT": [
+      "Intensive Care Unit"
+    ],
+    "DOCTOR": [
+      "Tyeshia Ari Vavrichek",
+      "Edmuna",
+      "Ann Ekberg"
+    ]
+  },
+  "70417": {
+    "ID_NUMBER": [
+      "2269965",
+      "22Q99652"
+    ],
+    "DATE": [
+      "December 9, 2013",
+      "February 12, 2063",
+      "March 4, 2064"
+    ],
+    "TIME": [
+      "1:47 p.m."
+    ],
+    "DOCTOR": [
+      "Cullen Luther Hanson",
+      "Cole",
+      "P. Sherian"
+    ]
+  },
+  "60239": {
+    "DATE": [
+      "later"
+    ]
+  },
+  "71101": {
+    "DATE": [
+      "August 6, 2063"
+    ],
+    "DOCTOR": [
+      "Evita Lolita-Watzell"
+    ]
+  },
+  "64543": {
+    "PATIENT": [
+      "Danny Huston"
+    ],
+    "DATE": [
+      "Today"
+    ],
+    "DOCTOR": [
+      "Danny"
+    ],
+    "ID_NUMBER": [
+      "3806839"
+    ],
+    "STREET": [
+      "Irvine Hill"
+    ],
+    "CITY": [
+      "Kiama Downs, Pennsylvania"
+    ],
+    "ZIP": [
+      "2852"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "3806839.BU"
+    ]
+  },
+  "73408": {
+    "DOCTOR": [
+      "P. Amlin",
+      "P. Fan"
+    ],
+    "PHONE": [
+      "8382-9154"
+    ],
+    "DATE": [
+      "March 4, 2064",
+      "December 24, 2013"
+    ],
+    "TIME": [
+      "4.06 p.m"
+    ]
+  },
+  "84679": {
+    "ID_NUMBER": [
+      "1017"
+    ]
+  },
+  "70314": {
+    "DOCTOR": [
+      "A.D. Ferrari"
+    ],
+    "DATE": [
+      "June 4, 1995"
+    ],
+    "ID_NUMBER": [
+      "89F7914306"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "891791.lib"
+    ],
+    "LAB_NUMBER": [
+      "89F79143"
+    ],
+    "STREET": [
+      "Crocted Yard"
+    ],
+    "ZIP": [
+      "SA6940"
+    ]
+  },
+  "71000": {
+    "PATIENT": [
+      "He"
+    ]
+  },
+  "61222": {
+    "DATE": [
+      "August 30, 2062"
+    ]
+  },
+  "74063": {
+    "PATIENT": [
+      "Alice Chen"
+    ],
+    "DEPARTMENT": [
+      "Dight",
+      "Gungbiwon Dept."
+    ],
+    "POSTAL_CODE": [
+      "2424"
+    ],
+    "DATE": [
+      "February 4, 2025"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "53185490FM"
+    ],
+    "ID_NUMBER": [
+      "5318"
+    ]
+  },
+  "63348": {
+    "DATE": [
+      "July 17, 2062"
+    ],
+    "DOCTOR": [
+      "Wagner"
+    ],
+    "ID_NUMBER": [
+      "of surgery"
+    ]
+  },
+  "74752": {
+    "DOCTOR": [
+      "Turner",
+      "Lawson",
+      "Embiid",
+      "Frankston",
+      "Harrod",
+      "Irving",
+      "Poole"
+    ],
+    "DATE": [
+      "April 21, 2063"
+    ]
+  },
+  "62362": {
+    "MEDICAL_RECORD_NUMBER": [
+      "3865278.qev"
+    ],
+    "ID_NUMBER": [
+      "38R527861V"
+    ],
+    "PATIENT": [
+      "Beatrice Wignobrat"
+    ],
+    "DATE": [
+      "May 4, 1992"
+    ]
+  },
+  "73831": {
+    "ID_NUMBER": [
+      "07Q28566AD",
+      "07Q28566"
+    ],
+    "PATIENT": [
+      "Jack"
+    ],
+    "DEPARTMENT": [
+      "Peter Mac Department"
+    ],
+    "HOSPITAL": [
+      "Inglewood Multipurpose Health Service, where"
+    ],
+    "DATE": [
+      "February 5, 2063"
+    ]
+  },
+  "60184": {
+    "DATE": [
+      "now"
+    ]
+  },
+  "74813": {
+    "DATE": [
+      "June 6, 2063"
+    ]
+  },
+  "71911": {
+    "DOCTOR": [
+      "Bryan",
+      "Terry",
+      "Washington"
+    ],
+    "DATE": [
+      "December 4, 2062",
+      "December 5, 2062"
+    ],
+    "DEPARTMENT": [
+      "SEALS Central Department"
+    ],
+    "PATIENT": [
+      "Sharon"
+    ],
+    "ZIP": [
+      "89U"
+    ]
+  },
+  "63062": {
+    "PATIENT": [
+      "Kamensky",
+      "Stephen"
+    ],
+    "DATE": [
+      "30th December, 2063"
+    ]
+  },
+  "82746": {
+    "PERSONALNAME": [
+      "Li Shi"
+    ],
+    "DATE": [
+      "this month"
+    ],
+    "TIME": [
+      "now"
+    ]
+  },
+  "83345": {
+    "DOCTOR": [
+      "張"
+    ],
+    "PERSONALNAME": [
+      "我"
+    ],
+    "TIME": [
+      "快"
+    ],
+    "FOOD": [
+      "麵筋雞"
+    ]
+  },
+  "84875": {
+    "PERSONALNAME": [
+      "Mary"
+    ],
+    "PATIENT": [
+      "Tony",
+      "Tony"
+    ],
+    "DOCTOR": [
+      "Tony"
+    ]
+  },
+  "60243": {
+    "PATIENT": [
+      "Cordell D'Orta"
+    ],
+    "ID_NUMBER": [
+      "30U63137"
+    ],
+    "DATE": [
+      "March 12, 2063"
+    ]
+  },
+  "74790": {
+    "DATE": [
+      "June 6, 2063"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "222485.OEE"
+    ]
+  },
+  "61280": {},
+  "72726": {
+    "DOCTOR": [
+      "Nash",
+      "Hilde",
+      "Gasol",
+      "Curry",
+      "Martin",
+      "Iverson",
+      "Wall"
+    ],
+    "DATE": [
+      "March 17, 2063"
+    ]
+  },
+  "63057": {
+    "PATIENT": [
+      "Von"
+    ],
+    "DEPARTMENT": [
+      "upper outer quadrant"
+    ],
+    "TIME": [
+      "25mm",
+      "15mm",
+      "20mm"
+    ]
+  },
+  "84641": {
+    "DEPARTMENT": [
+      "一樣的"
+    ],
+    "ORGANIZATION": [
+      "我們"
+    ]
+  },
+  "73173": {
+    "PATIENT": [
+      "Woodrow Harkley"
+    ],
+    "ID_NUMBER": [
+      "99B-76441"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "990764.ker"
+    ],
+    "DATE": [
+      "August 22, 2063",
+      "August 19, 2063"
+    ]
+  },
+  "63628": {
+    "PATIENT": [
+      "Clarence Terrali-Claude"
+    ],
+    "ID_NUMBER": [
+      "80N71782H"
+    ],
+    "STREET": [
+      "Mandolin Street"
+    ],
+    "CITY": [
+      "Brunswick"
+    ],
+    "ZIP": [
+      "2342"
+    ],
+    "DATE": [
+      "October"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "804717.VGU"
+    ]
+  },
+  "63800": {
+    "PATIENT": [
+      "Patient"
+    ],
+    "SET": [
+      "key findings"
+    ],
+    "TIME": [
+      "now"
+    ]
+  },
+  "63225": {
+    "DATE": [
+      "February 26, 2062"
+    ],
+    "TIME": [
+      "10:30 AM"
+    ],
+    "DOCTOR": [
+      "S. Horry",
+      "S. Popple",
+      "S. Brenneman"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "222485"
+    ]
+  },
+  "62079": {
+    "DATE": [
+      "January 29, 2063"
+    ],
+    "ID_NUMBER": [
+      "7A2B90.OVY"
+    ]
+  },
+  "60832": {
+    "ID_NUMBER": [
+      "16",
+      "500775"
+    ],
+    "PATIENT": [
+      "Vita Lawson"
+    ],
+    "STREET": [
+      "Now Suite Gobachu"
+    ],
+    "STATE": [
+      "Tasmania"
+    ],
+    "ZIP": [
+      "3995"
+    ],
+    "HOSPITAL": [
+      "Saint Vincent's Hospital Dollinghurst"
+    ]
+  },
+  "84584": {
+    "DATE": [
+      "上个星期五"
+    ],
+    "PERSONALNAME": [
+      "张五"
+    ],
+    "FAMILYNAME": [
+      "Zhang"
+    ],
+    "DEPARTMENT": [
+      "附近的药房"
+    ],
+    "DURATION": [
+      "三天"
+    ]
+  },
+  "74891": {
+    "PATIENT": [
+      "Clarence Whitney Stearman"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "1060794.ekx"
+    ],
+    "ID_NUMBER": [
+      "10R079414X"
+    ],
+    "LOCATION-OTHER": [
+      "Sunset View, Honduras, Tasmania"
+    ],
+    "STREET": [
+      "Sunset View"
+    ],
+    "CITY": [
+      "Honduras, Tasmania"
+    ],
+    "ZIP": [
+      "4870"
+    ],
+    "DATE": [
+      "April 27, 1985"
+    ]
+  },
+  "71381": {
+    "MEDICAL_RECORD_NUMBER": [
+      "70R23945.OEE",
+      "70R2394518",
+      "7062394.NEA"
+    ]
+  },
+  "73690": {
+    "DEPARTMENT": [
+      "IMVS department"
+    ],
+    "DOCTOR": [
+      "Tucker",
+      "Silver",
+      "Goodwin",
+      "Walton"
+    ],
+    "PATIENT": [
+      "Larry"
+    ],
+    "AGE": [
+      "80"
+    ],
+    "DATE": [
+      "September 21, 2062"
+    ]
+  },
+  "70917": {
+    "DATE": [
+      "February 13, 2003"
+    ],
+    "DEPARTMENT": [
+      "Pathwest-Tonksville University Hospital",
+      "Southwest Healthcare, Warramble Campus",
+      "Bellinger River District Hospital"
+    ],
+    "DOCTOR": [
+      "Bernardo",
+      "Brent Manganero",
+      "Alma Timon",
+      "A. Bussell",
+      "V.M.",
+      "Odey",
+      "A. Hassel"
+    ]
+  },
+  "74097": {
+    "DATE": [
+      "March 1, 2064"
+    ],
+    "DOCTOR": [
+      "James",
+      "Bo"
+    ],
+    "PATIENT": [
+      "Case"
+    ]
+  },
+  "72611": {
+    "DOCTOR": [
+      "HZ"
+    ]
+  },
+  "63075": {
+    "MEDICAL_RECORD_NUMBER": [
+      "9242334.gjd"
+    ]
+  },
+  "64710": {
+    "TIME": [
+      "4.51pm"
+    ],
+    "PATIENT": [
+      "Jamie"
+    ],
+    "DATE": [
+      "February 5, 2063"
+    ],
+    "ORGANIZATION": [
+      "Hexion Specialty Chemicals"
+    ]
+  },
+  "70636": {
+    "PATIENT": [
+      "Joe Lopez"
+    ],
+    "HOSPITAL": [
+      "Conamola Hospital"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "3683977.pbh"
+    ],
+    "ID_NUMBER": [
+      "36V39775"
+    ]
+  },
+  "61263": {
+    "PATIENT": [
+      "Terence",
+      "Freud",
+      "Denthal",
+      "Rudolf Katzenbach"
+    ],
+    "DOCTOR": [
+      "Tence",
+      "Freud",
+      "Denthal",
+      "Rudolf Katzenbach"
+    ],
+    "FAMILYNAME": [
+      "Chen"
+    ],
+    "PERSONALNAME": [
+      "Tence",
+      "Freud",
+      "Denthal",
+      "Rudolf Katzenbach"
+    ],
+    "ID_NUMBER": [
+      "7A9630.OVY"
+    ]
+  },
+  "74036": {
+    "DOCTOR": [
+      "Numbers",
+      "K. Trader",
+      "K. Krizyak"
+    ],
+    "TIME": [
+      "July 17, 2013",
+      "3.47 p.m."
+    ],
+    "FINDING": [
+      "parathyroid adenoma"
+    ]
+  },
+  "73971": {
+    "DOCTOR": [
+      "Ozel Martinda"
+    ],
+    "TIME": [
+      "1.53 p.m."
+    ],
+    "DATE": [
+      "June 24, 2013"
+    ]
+  },
+  "70587": {
+    "PATIENT": [
+      "Mike"
+    ],
+    "ID_NUMBER": [
+      "640-491-57"
+    ]
+  },
+  "70863": {},
+  "73249": {
+    "STATE": [
+      "Australian Capital Territory"
+    ],
+    "HOSPITAL": [
+      "Morgan Hospital"
+    ],
+    "DOCTOR": [
+      "Scott Dale Park",
+      "Q.E.B.A"
+    ],
+    "DATE": [
+      "January 16, 2062"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "222485.OEE"
+    ]
+  },
+  "74565": {
+    "DATE": [
+      "August 18, 2014"
+    ],
+    "PATIENT": [
+      "Bill"
+    ],
+    "STREET": [
+      "Fitz Stephan Street"
+    ],
+    "CITY": [
+      "Gilgandra"
+    ],
+    "STATE": [
+      "Tasmania"
+    ],
+    "ZIP": [
+      "4821"
+    ]
+  },
+  "61494": {
+    "DATE": [
+      "February 20, 2062"
+    ],
+    "DOCTOR": [
+      "E.Q",
+      "I.H",
+      "C. Sendevil"
+    ]
+  },
+  "63450": {
+    "DATE": [
+      "June 6, 2032"
+    ]
+  },
+  "64289": {
+    "DOCTOR": [
+      "Zen D'Amato"
+    ],
+    "ID_NUMBER": [
+      "96Q555702Z"
+    ],
+    "PATIENT": [
+      "Patrick Hobbs"
+    ],
+    "CITY": [
+      "Melbourne"
+    ],
+    "STATE": [
+      "Victoria"
+    ],
+    "ZIP": [
+      "3067"
+    ],
+    "DATE": [
+      "November 16, 1996"
+    ],
+    "TIME": [
+      "PM"
+    ]
+  },
+  "60420": {
+    "PATIENT": [
+      "Linda Goodwin",
+      "Linda",
+      "Linda"
+    ],
+    "ID_NUMBER": [
+      "99L339567J",
+      "99L33956",
+      "99L33956"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "9943395.RUJ"
+    ]
+  },
+  "64566": {
+    "DOCTOR": [
+      "T. Diesel",
+      "PJ",
+      "QB"
+    ],
+    "DATE": [
+      "January 10, 2063"
+    ]
+  },
+  "64257": {
+    "PATIENT": [
+      "Vincent",
+      "Vincent"
+    ],
+    "ID_NUMBER": [
+      "158304407R",
+      "15830440"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "1503044",
+      "1503044.BTR"
+    ]
+  },
+  "61710": {
+    "DOCTOR": [
+      "Joseph",
+      "Iverson",
+      "Pritchard",
+      "Picard"
+    ],
+    "PATIENT": [
+      "Milton"
+    ]
+  },
+  "61791": {
+    "DATE": [
+      "February 14, 2063",
+      "June 26, 2062",
+      "February 14, 2063"
+    ]
+  },
+  "84473": {
+    "PERSONALNAME": [
+      "Mary"
+    ],
+    "DOCTOR": [
+      "Chen",
+      "Chen",
+      "Chen",
+      "Chen"
+    ],
+    "PATIENT": [
+      "You",
+      "You",
+      "You",
+      "You"
+    ]
+  },
+  "62274": {
+    "DATE": [
+      "February 13, 2063"
+    ],
+    "DOCTOR": [
+      "V. Challenger"
+    ]
+  },
+  "74898": {
+    "DATE": [
+      "January 10, 2062",
+      "March 23, 2064"
+    ],
+    "DOCTOR": [
+      "Wendy Hennings"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "70%"
+    ]
+  },
+  "73432": {
+    "DOCTOR": [
+      "OVY"
+    ]
+  },
+  "74972": {
+    "DATE": [
+      "June 16, 2021"
+    ],
+    "DOCTOR": [
+      "Greg Evan Caron",
+      "Z.I.",
+      "V. Winant"
+    ],
+    "HOSPITAL": [
+      "Dickinson's Hills Hospital, Stanford"
+    ],
+    "AGE": [
+      "21"
+    ]
+  },
+  "70066": {
+    "DOCTOR": [
+      "EF",
+      "Yu Vageras",
+      "Perel Beskin",
+      "Yu Stas",
+      "Yu Sandhaus"
+    ],
+    "DATE": [
+      "March 25, 2063",
+      "April 3, 2063",
+      "April 13, 2063"
+    ]
+  },
+  "60286": {
+    "DOCTOR": [
+      "Huston",
+      "IKKS",
+      "O. Medelin"
+    ]
+  },
+  "61664": {
+    "ID_NUMBER": [
+      "7987572"
+    ]
+  },
+  "61627": {
+    "DOCTOR": [
+      "G. Kueh"
+    ],
+    "DATE": [
+      "September 3, 2063"
+    ],
+    "ID_NUMBER": [
+      "25-17-15-mm"
+    ]
+  },
+  "71935": {
+    "PATIENT": [
+      "Statius Beechman"
+    ],
+    "ID_NUMBER": [
+      "72I48671"
+    ],
+    "DATE": [
+      "April 26, 2013"
+    ],
+    "TIME": [
+      "12:23 p.m."
+    ],
+    "DOCTOR": [
+      "Lazaro Isha Limuth",
+      "W.F"
+    ]
+  },
+  "61343": {
+    "PATIENT": [
+      "Thomas Bookard"
+    ],
+    "HOSPITAL": [
+      "Royal Melbourne Hospital City Campus"
+    ],
+    "DOCTOR": [
+      "Thomas"
+    ],
+    "STREET": [
+      "Anchor Street",
+      "Anchored Street"
+    ],
+    "CITY": [
+      "Merwin-le-Bar"
+    ],
+    "ZIP": [
+      "3463"
+    ]
+  },
+  "70404": {
+    "DATE": [
+      "March 2, 2063",
+      "March 5, 2063",
+      "September 12, 2063"
+    ],
+    "DOCTOR": [
+      "Khoury Chalice",
+      "R. Ulb",
+      "Ubil",
+      "I.F."
+    ]
+  },
+  "74841": {
+    "DOCTOR": [
+      "Leopoldo Economite"
+    ],
+    "ID_NUMBER": [
+      "55X9925A4L"
+    ],
+    "LABEL_NUMBER": [
+      "55X99258"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "55A992.NVM"
+    ],
+    "STREET": [
+      "Offsummer Lakes Entrance"
+    ],
+    "CITY": [
+      "Australian Capital Territory"
+    ],
+    "ZIP": [
+      "2165"
+    ]
+  },
+  "61995": {
+    "DEPARTMENT": [
+      "Seal Center Department"
+    ],
+    "DOCTOR": [
+      "Hamilton",
+      "Sexton",
+      "Anderson"
+    ],
+    "DATE": [
+      "July 17, 2062"
+    ]
+  },
+  "63044": {
+    "DOCTOR": [
+      "Xi",
+      "Yuti",
+      "Oblenka"
+    ],
+    "DATE": [
+      "December 11, 2063"
+    ],
+    "ID_NUMBER": [
+      "7M6 2 1 0 1 0 1 0 1 0"
+    ]
+  },
+  "83130": {
+    "PERSONALNAME": [
+      "Mary"
+    ]
+  },
+  "62808": {
+    "DATE": [
+      "January 9, 1963"
+    ],
+    "DOCTOR": [
+      "Curry"
+    ],
+    "PATIENT": [
+      "Claire"
+    ]
+  },
+  "70892": {
+    "PATIENT": [
+      "he"
+    ]
+  },
+  "71415": {
+    "MEDICAL_RECORD_NUMBER": [
+      "640491577J"
+    ],
+    "DATE": [
+      "January 29, 2014"
+    ],
+    "TIME": [
+      "12:18 PM"
+    ],
+    "DOCTOR": [
+      "Mitchell"
+    ]
+  },
+  "84057": {
+    "DOCTOR": [
+      "总医"
+    ],
+    "DATE": [
+      "今天"
+    ],
+    "DURATION": [
+      "一周"
+    ]
+  },
+  "62639": {},
+  "73006": {
+    "DATE": [
+      "September 13, 2062",
+      "July 16, 2063",
+      "May 6, 2013"
+    ],
+    "TIME": [
+      "2.50 PM"
+    ]
+  },
+  "60581": {
+    "DATE": [
+      "July 16, 2062",
+      "July 16, 2062"
+    ],
+    "DOCTOR": [
+      "Nunn",
+      "Siakam"
+    ]
+  },
+  "74738": {
+    "DOCTOR": [
+      "Aristide",
+      "V. Rothby"
+    ],
+    "DATE": [
+      "March 14, 2013",
+      "May 17, 2063"
+    ]
+  },
+  "60535": {
+    "PATIENT": [
+      "Cheryl"
+    ]
+  },
+  "74881": {
+    "DATE": [
+      "October 23, 2063"
+    ],
+    "DURATION": [
+      "including"
+    ],
+    "LOCATION": [
+      "pouch of Douglas"
+    ],
+    "SIZE": [
+      "65-millimeter"
+    ],
+    "DEPARTMENT": [
+      "Descending column"
+    ],
+    "ID_NUMBER": [
+      "5 of 24 nodes"
+    ]
+  },
+  "71244": {
+    "DATE": [
+      "May 1, 2063",
+      "May 20, 2063"
+    ],
+    "DOCTOR": [
+      "V. Z"
+    ],
+    "AGE": [
+      "22"
+    ]
+  },
+  "60884": {
+    "DOCTOR": [
+      "Jack",
+      "Helen",
+      "Reddish",
+      "Kendrick",
+      "Peter"
+    ],
+    "DATE": [
+      "30th December 2063"
+    ]
+  },
+  "73719": {
+    "DEPARTMENT": [
+      "left groin"
+    ]
+  },
+  "73733": {
+    "ID_NUMBER": [
+      "4J0197740"
+    ],
+    "PATIENT": [
+      "Lily White"
+    ],
+    "DEPARTMENT": [
+      "7th acute care ward"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "04J0197740"
+    ]
+  },
+  "71363": {
+    "PATIENT": [
+      "Danita Sarabia",
+      "a female patient",
+      "June 10, 1988",
+      "Danita",
+      "13T023532",
+      "13T02353",
+      "1370.235",
+      "Danita"
+    ],
+    "FAMILYNAME": [
+      "Sarabia",
+      "Sarabia"
+    ],
+    "DATE": [
+      "June 10, 1988",
+      "1"
+    ],
+    "ID_NUMBER": [
+      "13T023532",
+      "13T02353",
+      "1370.235"
+    ],
+    "STREET": [
+      "Bush Pound"
+    ],
+    "CITY": [
+      "Harvey Bay"
+    ],
+    "STATE": [
+      "QLD"
+    ],
+    "ZIP": [
+      "3111"
+    ]
+  },
+  "83693": {
+    "DEPARTMENT": [
+      "5th Floor"
+    ],
+    "ID_NUMBER": [
+      "B70",
+      "O38",
+      "Power140",
+      "SQ195",
+      "IV",
+      "O2"
+    ],
+    "DOCTOR": [
+      "80",
+      "50",
+      "Power120",
+      "SQ195"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "70",
+      "Over 38",
+      "Power 140",
+      "SQ 195",
+      "OEE"
+    ]
+  },
+  "63256": {
+    "ID_NUMBER": [
+      "30R50436"
+    ],
+    "STREET": [
+      "Duvon Street"
+    ],
+    "DISTRICT": [
+      "Oakdale"
+    ],
+    "ZIP": [
+      "4816"
+    ],
+    "DATE": [
+      "October 16, 1994",
+      "December 18, 2013"
+    ],
+    "TIME": [
+      "10:25am"
+    ]
+  },
+  "62505": {
+    "DATE": [
+      "27th December 2063",
+      "26th December 2063"
+    ],
+    "DOCTOR": [
+      "Duke",
+      "Fox",
+      "Owen"
+    ]
+  },
+  "61987": {
+    "ID_NUMBER": [
+      "16Q50077"
+    ],
+    "PATIENT": [
+      "Vita"
+    ],
+    "DATE": [
+      "September 8, 1990",
+      "December 9, 2013"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "166500.TP"
+    ]
+  },
+  "71527": {},
+  "62578": {
+    "DATE": [
+      "January 20, 2062"
+    ],
+    "TIME": [
+      "9.03"
+    ],
+    "DEPARTMENT": [
+      "Tissue Pathology and Diagnostic Oncology Department"
+    ],
+    "STREET": [
+      "Summer Robinville"
+    ],
+    "STATE": [
+      "ACT"
+    ],
+    "ZIP": [
+      "3435"
+    ],
+    "DOCTOR": [
+      "Courtney West-Fuss"
+    ]
+  },
+  "62548": {
+    "DOCTOR": [
+      "NG",
+      "LV",
+      "Cullen",
+      "EL",
+      "S. Sugar",
+      "S. Atwell",
+      "S. Atkin"
+    ],
+    "DATE": [
+      "May 10, 2063",
+      "April 16, 2063"
+    ],
+    "ID_NUMBER": [
+      "0"
+    ]
+  },
+  "60598": {
+    "DOCTOR": [
+      "Bruce Edmonds"
+    ],
+    "DATE": [
+      "May 27, 2013"
+    ],
+    "TIME": [
+      "2.28 p.m."
+    ],
+    "DEPARTMENT": [
+      "day surgery unit"
+    ],
+    "ORGANIZATION": [
+      "East Grampian Health Service"
+    ],
+    "ID_NUMBER": [
+      "28X246028R"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "28X246028R"
+    ]
+  },
+  "63924": {
+    "DOCTOR": [
+      "Ian"
+    ],
+    "DATE": [
+      "30th December, 2063"
+    ]
+  },
+  "61145": {
+    "PATIENT": [
+      "Roger"
+    ],
+    "STREET": [
+      "North Rowan Street"
+    ],
+    "CITY": [
+      "Longford"
+    ],
+    "STATE": [
+      "Northern Territory"
+    ],
+    "ZIP": [
+      "3127"
+    ],
+    "DATE": [
+      "April 24, 1981"
+    ]
+  },
+  "74675": {
+    "ID_NUMBER": [
+      "78Z376790Z",
+      "7AZ37679"
+    ]
+  },
+  "73174": {
+    "DOCTOR": [
+      "Angel Iosa",
+      "Yuke",
+      "I.",
+      "S. Wojcicki",
+      "Craigbond",
+      "S. Hoppings"
+    ],
+    "DATE": [
+      "October 10, 2063"
+    ],
+    "PROFESSION": [
+      "Macroscopic examination"
+    ],
+    "SET": [
+      "A"
+    ]
+  },
+  "70227": {
+    "DATE": [
+      "January 15, 2014"
+    ],
+    "TIME": [
+      "1.48 PM"
+    ],
+    "PATIENT": [
+      "Marvin"
+    ],
+    "DEPARTMENT": [
+      "emergency department"
+    ],
+    "HOSPITAL": [
+      "Royal Hobart Hospital"
+    ],
+    "ID_NUMBER": [
+      "91X133542M"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "91X13354"
+    ]
+  },
+  "72354": {
+    "PATIENT": [
+      "Eric Millie"
+    ],
+    "ID_NUMBER": [
+      "84B929823S"
+    ],
+    "CITY": [
+      "North Solano"
+    ],
+    "STREET": [
+      "Linden"
+    ],
+    "STATE": [
+      "South Australia"
+    ],
+    "ZIP": [
+      "4512"
+    ]
+  },
+  "73872": {
+    "DOCTOR": [
+      "Smith"
+    ],
+    "PATIENT": [
+      "Johnson"
+    ],
+    "ID_NUMBER": [
+      "0254-9649Z"
+    ],
+    "DEPARTMENT": [
+      "Molecular Diagnostic Oncology Department"
+    ],
+    "DATE": [
+      "January 23, 2014"
+    ],
+    "TIME": [
+      "3.19 PM"
+    ]
+  },
+  "72946": {
+    "TIME": [
+      "5.25 p.m."
+    ],
+    "DOCTOR": [
+      "Z. Rosted",
+      "Z. Feder"
+    ],
+    "DATE": [
+      "November 7, 2012"
+    ],
+    "ID_NUMBER": [
+      "Z"
+    ]
+  },
+  "72342": {
+    "ID_NUMBER": [
+      "28L-06475"
+    ],
+    "DEPARTMENT": [
+      "coronary care unit"
+    ],
+    "HOSPITAL": [
+      "Heathcote's House"
+    ],
+    "DOCTOR": [
+      "Lawrence Meluda-Morrow",
+      "KB",
+      "G"
+    ],
+    "DATE": [
+      "October 29, 2063",
+      "November 27, 2062"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "222485.OEE"
+    ]
+  },
+  "71928": {
+    "PATIENT": [
+      "John Doe"
+    ],
+    "DATE": [
+      "June 6, 2063"
+    ]
+  },
+  "61528": {
+    "DATE": [
+      "August 13, 2063",
+      "February 1, 2062"
+    ],
+    "DOCTOR": [
+      "KZ",
+      "PQ"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "222485"
+    ]
+  },
+  "61822": {
+    "SET": [
+      "of the small bowel"
+    ]
+  },
+  "82979": {
+    "DURATION": [
+      "一年半",
+      "三次"
+    ],
+    "DATE": [
+      "今天"
+    ]
+  },
+  "62951": {
+    "PATIENT": [
+      "Corey Fendler"
+    ],
+    "ID_NUMBER": [
+      "25012341"
+    ],
+    "DATE": [
+      "January 27, 2063"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "255123.MEN"
+    ]
+  },
+  "84870": {
+    "DOCTOR": [
+      "Zhu Zi Yi"
+    ],
+    "PATIENT": [
+      "Subi"
+    ]
+  },
+  "60365": {
+    "DATE": [
+      "February 15, 2017",
+      "February 13, 2013"
+    ],
+    "TIME": [
+      "6.16 p.m."
+    ],
+    "DOCTOR": [
+      "Evan Gregory Bowles"
+    ],
+    "DEPARTMENT": [
+      "Levity",
+      "Foreign North Health Services"
+    ],
+    "ID_NUMBER": [
+      "Evan Gregory Bowles"
+    ]
+  },
+  "60802": {
+    "DATE": [
+      "June 6, 2018"
+    ]
+  },
+  "63553": {
+    "DATE": [
+      "April 26, 2012"
+    ],
+    "TIME": [
+      "14:30 PM"
+    ],
+    "PATIENT": [
+      "Jonathan"
+    ],
+    "DEPARTMENT": [
+      "CPC Pathology"
+    ],
+    "HOSPITAL": [
+      "Leighton District Hospital"
+    ],
+    "DOCTOR": [
+      "Bowman"
+    ]
+  },
+  "83071": {
+    "PATIENT": [
+      "Jung-Kuang Yushi",
+      "Jung-Kuang",
+      "Lin Shuang",
+      "father",
+      "mother"
+    ],
+    "DOCTOR": [
+      "Jung-Kuang",
+      "Jung-Kuang",
+      "Highon Fushi",
+      "Shi-Han Ming"
+    ],
+    "PERSONALNAME": [
+      "Strong",
+      "Strong"
+    ],
+    "CITY": [
+      "Jung-Kuang",
+      "Jung-Kuang"
+    ],
+    "LOCATION-OTHER": [
+      "Highon",
+      "Fushi",
+      "Shi-Han Ming"
+    ]
+  },
+  "63123": {},
+  "70073": {
+    "DATE": [
+      "December 4, 2012",
+      "February 7, 2062"
+    ],
+    "TIME": [
+      "3.13 p.m."
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "09M-75578"
+    ]
+  },
+  "62877": {
+    "DOCTOR": [
+      "F.W",
+      "C. Currico"
+    ],
+    "DATE": [
+      "April 23, 2063",
+      "April 24, 2063"
+    ]
+  },
+  "74380": {
+    "PATIENT": [
+      "Zach Randolph"
+    ],
+    "DATE": [
+      "November 27, 1988"
+    ],
+    "STREET": [
+      "Timberley Street"
+    ],
+    "CITY": [
+      "Tee Gardens"
+    ],
+    "ZIP": [
+      "6397"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "8277539.IAQ"
+    ]
+  },
+  "70452": {
+    "PATIENT": [
+      "Megan Colleen Polk"
+    ],
+    "ID_NUMBER": [
+      "52V0584650"
+    ],
+    "CITY": [
+      "Random"
+    ],
+    "STREET": [
+      "Coraoa"
+    ],
+    "STATE": [
+      "VIC"
+    ],
+    "ZIP": [
+      "2179"
+    ],
+    "DATE": [
+      "April 29, 2015",
+      "April 29, 2015"
+    ],
+    "AGE": [
+      "49",
+      "45 years old"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "5280584.PPO"
+    ]
+  },
+  "72145": {
+    "DATE": [
+      "August 23, 2013"
+    ],
+    "TIME": [
+      "4.30 p.m."
+    ],
+    "DOCTOR": [
+      "Eddie Wallace",
+      "B. Q.",
+      "O. W.",
+      "S. T. Bird"
+    ]
+  },
+  "72958": {
+    "DOCTOR": [
+      "ZN",
+      "XM"
+    ],
+    "DATE": [
+      "March 23, 2064"
+    ],
+    "DIAGNOSIS": [
+      "FIGO grade 1 endometrial endometrioid endocarcinoma"
+    ]
+  },
+  "70529": {
+    "ID_NUMBER": [
+      "P634725W",
+      "P63472",
+      "P63472"
+    ]
+  },
+  "70088": {
+    "PATIENT": [
+      "Sandra Powell"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "3496328.tfi"
+    ],
+    "STREET": [
+      "Claude Street"
+    ],
+    "CITY": [
+      "Parisian Beach"
+    ],
+    "ZIP": [
+      "2647"
+    ],
+    "DATE": [
+      "May 25, 1992"
+    ]
+  },
+  "62198": {
+    "DATE": [
+      "December 3, 2063"
+    ],
+    "DOCTOR": [
+      "H. Ramirez",
+      "H. Hesch"
+    ],
+    "TIME": [
+      "evening"
+    ]
+  },
+  "64891": {
+    "DATE": [
+      "November 14, 2013"
+    ]
+  },
+  "73997": {
+    "ID_NUMBER": [
+      "30V006763E",
+      "30V00676",
+      "30V00676"
+    ],
+    "PATIENT": [
+      "Penny"
+    ],
+    "TIME": [
+      "September 26, 2012 at 12:10pm"
+    ],
+    "HOSPITAL": [
+      "Mildura Bay Public Hospital"
+    ],
+    "DEPARTMENT": [
+      "SEAL Central Department"
+    ]
+  },
+  "71314": {
+    "DOCTOR": [
+      "Yuji"
+    ],
+    "DATE": [
+      "March 24, 2064"
+    ]
+  },
+  "84219": {
+    "PERSONALNAME": [
+      "Amanda",
+      "Amanda"
+    ],
+    "PATIENT": [
+      "Amanda"
+    ]
+  },
+  "70697": {
+    "DATE": [
+      "September 14, 2062"
+    ],
+    "DOCTOR": [
+      "Jaina",
+      "Roberson",
+      "Bridges",
+      "Brock",
+      "Puth",
+      "Sarge"
+    ]
+  },
+  "64517": {
+    "ID_NUMBER": [
+      "28X24602"
+    ],
+    "STREET": [
+      "Kent Street"
+    ],
+    "CITY": [
+      "Westbury"
+    ],
+    "ZIP": [
+      "4169"
+    ],
+    "DATE": [
+      "November 28, 1996"
+    ],
+    "DOCTOR": [
+      "Efrain Jacob-McNeil"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "289246.AGV"
+    ]
+  },
+  "63874": {
+    "PATIENT": [
+      "Milton"
+    ],
+    "DATE": [
+      "February 21, 2063"
+    ]
+  },
+  "70829": {
+    "DOCTOR": [
+      "Fu",
+      "YK",
+      "Wallace Cameron"
+    ],
+    "DATE": [
+      "December 3, 1963"
+    ],
+    "DEPARTMENT": [
+      "Blackwell Hospital"
+    ],
+    "LOCATION-OTHER": [
+      "Alice Springs"
+    ]
+  },
+  "72345": {
+    "DOCTOR": [
+      "Castell",
+      "Hunter",
+      "Moises",
+      "Niles",
+      "Peterson"
+    ],
+    "TIME": [
+      "13:55 PM"
+    ],
+    "DATE": [
+      "January 22, 2014",
+      "March 25, 2064"
+    ]
+  },
+  "83449": {
+    "PATIENT": [
+      "Aunt"
+    ],
+    "FAMILYNAME": [
+      "Van"
+    ],
+    "PERSONALNAME": [
+      "Aunt",
+      "Aunt"
+    ],
+    "DOCTOR": [
+      "A Strong"
+    ]
+  },
+  "60197": {
+    "DATE": [
+      "January 21, 2062"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "070-53-77-89-1"
+    ]
+  },
+  "62097": {
+    "PATIENT": [
+      "Doris Chen"
+    ],
+    "DEPARTMENT": [
+      "Kaldoraner Green Multipurpose Service"
+    ],
+    "ID_NUMBER": [
+      "222485"
+    ],
+    "STREET": [
+      "Mount Vernon Street"
+    ],
+    "CITY": [
+      "Warwick"
+    ],
+    "STATE": [
+      "Northern Territory"
+    ],
+    "ZIP": [
+      "2891"
+    ],
+    "DATE": [
+      "February 20, 2001"
+    ]
+  },
+  "74800": {
+    "PATIENT": [
+      "Emily"
+    ]
+  },
+  "73718": {
+    "DOCTOR": [
+      "Hunter",
+      "Bird"
+    ],
+    "DATE": [
+      "September 19, 2063"
+    ]
+  },
+  "73651": {
+    "PATIENT": [
+      "Ashton Lizard"
+    ],
+    "DATE": [
+      "August 20, 1994"
+    ],
+    "AGE": [
+      "73"
+    ],
+    "STREET": [
+      "Butterfly Outgate"
+    ],
+    "ZIP": [
+      "5640"
+    ],
+    "ID_NUMBER": [
+      "93B373421G"
+    ],
+    "MEDICAL_RECORD_NUMBER": [
+      "9303734.feg"
+    ],
+    "LAB_NUMBER": [
+      "9303734"
+    ]
+  }
+}
